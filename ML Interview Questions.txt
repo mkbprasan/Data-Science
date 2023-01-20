@@ -1,0 +1,3368 @@
+•	Anomaly Detection Q&As
+•	Q1:   Explain what is Anomaly Detection?   Entry 
+•	Q2:   What do you understand by the term Anomaly Detection?    Entry 
+•	Q3:   What are some applications of Anomaly Detection?   Entry 
+•	Q4:   Why do we care about Anomalies?
+•	Q5:   What's the difference between Normalisation and Standardisation?
+•	Related To: Statistics
+•	Q6:   Why would you use the Median as a measure of central tendency?
+•	Related To: Statistics
+•	Q7:   What is the 68 - 95 - 99.7 rule for Normal Distribution?
+•	Related To: Statistics
+•	Q8:   What are the differences in Anomalies for Uniform Distribution and Normal Distribution in One-Dimensional Data?
+•	Related To: Statistics
+•	Q9:   Why is Anomaly Detection very important in the field of Science?
+•	Q10:   What are the Swamping and Masking problems in Anomaly Detection?
+•	Q11:   What is a Resolution-Based Outlier Detection?
+•	Q12:   What is the Change Detection problem in Anomaly Detection?
+•	Q13:   How the IQR (Interquartile Range) is used in Time Series Forecasting?
+•	Related To: Time Series
+•	Q14:   Explain how to use Standard Deviation for Anomalies Detection?
+•	Related To: Statistics
+•	Q15:   What Are some types of Anomalies?
+•	Q16:   What are some categories of outlier detection approaches?
+•	Q17:   How to use one-class SVM for Anomalies Detections?
+•	Related To: SVM
+•	Q18:   Explain the difference between Outlier Detection vs Novelty Detection
+•	Q19:   Compare SVM and Logistic Regression in handling outliers
+•	Related To: SVM, Logistic Regression
+•	Q20:   Explain some cases where k-Means clustering fails to give good results
+•	Related To: K-Means Clustering
+•	Q21:   What are the three broad categories of Anomaly Detection?
+•	Q22:   How would you evaluate the performance of Anomaly Detection Algorithms?
+•	Q23:   What is the Isolation Forest Algorithm?
+•	Related To: Random Forests
+•	Q24:   Can you find Outliers using k-Means?
+•	Related To: K-Means Clustering
+•	Q25:   What would be a good way to use Clustering for Outlier detection?
+•	Related To: Clustering
+•	Q26:   What are some shortcomings for Density-Based Anomaly Detection Algorithms?
+•	Q27:   Explain the Distance Based-Outlier Approach
+•	Q28:   What is the difference between Out of Distribution and Anomaly Detection?
+•	Q29:   What are Explicit Models for Anomaly Detection?
+•	Q30:   What are some of the differences between Anomaly Detection and Behaviour Detection?
+•	Related To: Clustering
+•	Q31:   How to use Isolation Forest for Anomalies detection?
+•	Related To: Decision Trees
+•	Q32:   What are some advantages of using Isolation Forest algorithm for outliers detection? 
+•	Q33:   How would you deal with Outliers in your dataset?
+•	Related To: Linear Regression, Data Processing
+•	Q34:   Imagine that you know there are outliers in your data, would you use Logistic Regression?
+•	Related To: Decision Trees, Logistic Regression, Random Forests
+•	Q35:   How is PCA used for Anomaly Detection?
+•	Related To: Unsupervised Learning, PCA
+•	Q36:   How does Dictionary Learning perform Anomaly Detection?
+•	Q37:   How is Mahalanobis Distance used in Outlier Detection?
+•	Q38:   Can Support Vector Machines be used for Outlier Detection?
+•	Related To: SVM
+•	Q39:   Explain how Autoencoders can be used for Anomaly Detection?
+•	Related To: Autoencoders, Neural Networks
+•	Q40:   How are Independent Ensemble Methods used for Anomaly Detection?
+•	Q41:   How is Anomaly Detection performed in Models of Time-Varying Processes?
+•	Q42:   How does Cluster Algorithms work on detecting Anomalies when the cluster sizes are different?
+•	Related To: Clustering
+•	Q43:   What are some characteristics of Clustering Algorithms concerning Anomaly Detection?
+•	Related To: Clustering
+•	Q44:   What types of Robust Regression Algorithms do you know?
+•	Related To: Linear Regression
+•	Q45:   What technique would you use to prevent Swamping and Masking for Isolation Forest Anomaly Detection?
+•	Related To: Random Forests
+•	Q46:   How would you design a Real-time Anomaly Detection Algorithm?
+•	Anomaly Detection Practical Challenges
+•	Q1:   Implement a simple algorithm for Online Outlier Detection of a generic Time Series
+•	Related To: Time Series
+•	Autoencoders Q&As
+•	Q1:   How can Neural Networks be Unsupervised?
+•	Related To: Unsupervised Learning, Neural Networks
+•	Q2:   Describe the approach used in Denoising Autoencoders
+•	Related To: Unsupervised Learning
+•	Q3:   How can Neural Networks be used to create Autoencoders?
+•	Related To: Neural Networks
+•	Q4:   What are Variational Autoencoders?
+•	Related To: Neural Networks
+•	Q5:   Can autoencoders be used for feature generation? If yes, how?
+•	Related To: Deep Learning
+•	Q6:   What's the difference between GAN and autoencoders?
+•	Related To: Deep Learning
+•	Q7:   How can you evaluate the Performance of an Autoencoder?
+•	Q8:   What's the difference between an Autoencoder and Variational Autoencoder?
+•	Related To: Deep Learning
+•	Q9:   Can you use Batch Normalisation in Sparse Auto-encoders?
+•	Related To: Unsupervised Learning
+•	Q10:  What are the main differences between Sparse Autoencoders and Convolution Autoencoders?
+•	Related To: Unsupervised Learning
+•	Q11:  What are some differences between the Undercomplete Autoencoder and the Sparse Autoencoder?
+•	Related To: Unsupervised Learning
+•	Q12:  Explain how Autoencoders can be used for Anomaly Detection?
+•	Related To: Anomaly Detection, Neural Networks
+•	Q13:  Compare Variational Autoencoders and Generative Adversarial Network?
+•	Related To: Neural Networks
+•	Bias & Variance Q&As
+•	Q1:   What is Bias in Machine Learning?
+•	Related To: Supervised Learning
+•	Q2:   What is the Bias-Variance tradeoff?
+•	Related To: Supervised Learning
+•	Q3:   How can you identify a High Bias model? How can you fix it?
+•	Q4:   Provide an intuitive explanation of the Bias-Variance Tradeoff
+•	Q5:   Name some types of Data Biases in Machine Learning?
+•	Q6:   What to do if you have High Variance Problem?
+•	Q7:   What to do if you have High Bias Problem?
+•	Q8:   What's the difference between Bagging and Boosting algorithms?
+•	Related To: Ensemble Learning, Data Processing, Classification
+•	Q9:   How can you relate the KNN Algorithm to the Bias-Variance tradeoff?
+•	Related To: K-Nearest Neighbors
+•	Q10:  What is the Bias Error?
+•	Related To: Supervised Learning
+•	Q11:  What is the Variance Error?
+•	Related To: Supervised Learning
+•	Q12:  When you sample, what potential Sampling Biases could you be inflicting?
+•	Related To: Statistics, Data Processing
+•	Q13:  How to identify a High Variance model? How do you fix it?
+•	Q14:  What are the differences between Content-Based and Collaborative Methods in terms of Bias and Variance?
+•	Related To: Recommendation Systems
+•	Top 22 Big-O Notation Interview Questions
+•	Entry Expert
+•	Only Practical Challenges
+•	Download Free PDF (0)
+•	Topic Progress:
+•	Big-O Notation Q&As
+•	Q1:   What is Big O notation?
+•	Entry 
+•	Q2:   What is Worst Case?
+•	Q3:   What the heck does it mean if an operation is O(log n)?
+•	Q4:   Why do we use Big O notation to compare algorithms? 
+•	Q5:   What exactly would an O(n2) operation do?
+•	Q6:   Explain the difference between O(1) vs O(n) space complexities 
+•	Q7:   What is an algorithm?
+•	Q8:   What is the time complexity for Hello, World function?
+•	Q9:   What is meant by Constant Amortized Time when talking about time complexity of an algorithm?
+•	Q10:  Why do we use Big O instead of Big Theta (Θ)?
+•	Q11:  Name some types of Big O complexity and corresponding algorithms
+•	Q12:  Explain your understanding of Space Complexity with examples
+•	Q13:  What is the difference between Lower bound and Tight bound?
+•	Q14:  What does it mean if an operation is O(n!)?
+•	Q15:  What are some algorithms which we use daily that has O(1), O(n log n) and O(log n) complexities?
+•	Big-O Notation Practical Challenges
+•	Q1:   Provide an example of O(1) algorithm
+•	Entry 
+•	Q2:   What is complexity of this code snippet?
+•	Q3:   What is complexity of push and pop for a Stack implemented using a LinkedList?
+•	Related To: Linked Lists, Stacks
+•	Q4:   What is the Big O notation of this function?
+•	Q5:   What is complexity of this code snippet?
+•	Q6:   What is complexity of Reading a Book?
+•	Q7:   Provide an example of algorithm with time complexity of O(ck)?
+•	CNN Q&As
+•	Q1:   How are CNNs used for Time Series Prediction?
+•	Related To: Neural Networks, Time Series
+•	Q2:   What's the difference between Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) and in which cases would use each one?
+•	Related To: RNN, Neural Networks
+•	Q3:   How is Convolutional Neural Networks (CNN) used in NLP?
+•	Related To: NLP, Neural Networks
+•	Q4:   Name some advantages of using Convolutional Neural Networks vs Dense Neural Networks for image classification
+•	Related To: Neural Networks
+•	Q5:   In CNN, what are the pros and cons of Max Pooling vs Average Pooling? 
+•	Related To: Neural Networks
+•	Q6:   What do the fully connected layers do in CNNs?
+•	Related To: Neural Networks
+•	Q7:   When would you use MLP, CNN, and RNN?
+•	Related To: RNN, Neural Networks
+•	Q8:   Compare the Convolutional Neural Network and Multi-layer Perceptron
+•	Related To: Neural Networks
+•	Q9:   What is intuition behind using CNN for NLP?
+•	Related To: NLP, Neural Networks
+•	Q10:  What's the difference between multi-headed and multi-channel CNNs?
+•	Related To: Neural Networks
+•	Q11:  What's the difference between CNN-LSTMs and ConvLSTMs?
+•	Related To: Neural Networks
+•	Q12:  What's the difference between Convolutional Layers vs Fully Connected Layers?
+•	Related To: Neural Networks
+•	CNN Practical Challenges
+•	Q1:   Describe the architecture of a typical Convolutional Neural Network (CNN)
+•	Related To: Neural Networks
+•	Classification Q&As
+•	Q1:   What is a Perceptron?
+•	Related To: Supervised Learning, Neural Networks
+•	Entry 
+•	Q2:   Why Naive Bayes is called Naive?
+•	Related To: Naïve Bayes, Supervised Learning
+•	Q3:   What is a Decision Boundary?
+•	Related To: Logistic Regression
+•	Q4:   What types of Classification Algorithms do you know?
+•	Q5:   What is the difference between KNN and K-means Clustering?
+•	Related To: K-Means Clustering, Supervised Learning, Unsupervised Learning
+•	Q6:   How do you choose the optimal k in k-NN?
+•	Related To: K-Nearest Neighbors
+•	Q7:   How would you make a prediction using a Logistic Regression model?
+•	Related To: Logistic Regression
+•	Q8:   Why would you use the Kernel Trick?
+•	Related To: SVM
+•	Q9:   What's the difference between Multiclass Classification models and Multi Label model?
+•	Related To: ML Design Patterns
+•	Q10:  What is the Hinge Loss in SVM?
+•	Related To: SVM, Cost Function
+•	Q11:  Name some classification metrics and when would you use each one
+•	Q12:  What is the difference between a Weak Learner vs a Strong Learner and why they could be usefu?
+•	Related To: Ensemble Learning
+•	Q13:  What's the difference between Bagging and Boosting algorithms?
+•	Related To: Ensemble Learning, Data Processing, Bias & Variance
+•	Q14:  Provide an intuitive explanation of Linear Support Vector Machines (SVMs)
+•	Related To: SVM
+•	Q15:  Could you convert Regression into Classification and vice versa?
+•	Q16:  What's the difference between One-vs-Rest and One-vs-One?
+•	Related To: Data Processing
+•	Q17:  Can you choose a classifier based on the size of the training set?
+•	Related To: Naïve Bayes
+•	Q18:  How would you use Naive Bayes classifier for categorical features? What if some features are numerical?
+•	Related To: Naïve Bayes
+•	Q19:  What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one
+•	Related To: Naïve Bayes
+•	Q20:  How does the Naive Bayes classifier work?
+•	Related To: Naïve Bayes
+•	Q21:  How does the AdaBoost algorithm work?
+•	Related To: Ensemble Learning
+•	Q22:  What's the difference between Softmax and Sigmoid functions?
+•	Related To: Logistic Regression
+•	Q23:  How do you use a supervised Logistic Regression for Classification?
+•	Related To: Logistic Regression, Supervised Learning
+•	Q24:  What is a Confusion Matrix?
+•	Related To: Supervised Learning, Model Evaluation
+•	Q25:  How does ROC curve and AUC value help measure how good a model is?
+•	Related To: Model Evaluation
+•	Q26:  What are some advantages and disadvantages of using AUC to measure the performance of the model?
+•	Related To: Model Evaluation
+•	Q27:  What is the F-Score?
+•	Related To: Statistics, Model Evaluation
+•	Q28:  How is AUC - ROC curve used in classification problems? 
+•	Related To: Model Evaluation
+•	Q29:  Name some advantages of using Support Vector Machines vs Logistic Regression for classification
+•	Related To: SVM, Logistic Regression
+•	Q30:  When would you use SVM vs Logistic regression?
+•	Related To: SVM, Logistic Regression
+•	Q31:  Are there any problems using Naive Bayes for Classification?
+•	Related To: Naïve Bayes
+•	Q32:  What's the difference between Random Oversampling and Random Undersampling and when they can be used? Related To: Data Processing
+•	Q33: How would you use a Confusion Matrix for determining a model performance?
+•	Related To: Data Processing, Model Evaluation
+•	Q34: How would you deal with classification on Non-linearly Separable data?
+•	Related To: SVM
+•	Q35: What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?
+•	Related To: Ensemble Learning, Naïve Bayes
+•	Q36: Compare Naive Bayes vs with Logistic Regression to solve classification problems
+•	Related To: Logistic Regression, Naïve Bayes
+•	Q37: How would you Calibrate Probabilities for a classification model?
+•	Related To: Probability
+•	Q38: How would you choose an evaluation metric for an Imbalanced classification?
+•	Related To: Model Evaluation
+•	Q39: What is AIC?
+•	Related To: Model Evaluation
+•	Q40: Can Logistic Regression be used for an Imbalanced Classification problem?
+•	Related To: Logistic Regression
+•	Q41: Why would you use Probability Calibration?
+•	Related To: Probability
+•	Q42: What's the difference between ROC and Precision-Recall Curves?
+•	Related To: Model Evaluation
+•	Q43: How to interpret F-measure values?
+•	Related To: Model Evaluation
+•	Clustering Q&As
+•	Q1:  Define what is Clustering?
+•	Entry 
+•	Q2:  What is Similarity-based Clustering?
+•	Q3:  Give examples of using Clustering to solve real-life problems
+•	Q4:  What is Mean-Shift Clustering?
+•	Q5:  What are Self-Organizing Maps?
+•	Related To: Neural Networks
+•	Q6:  Why do you need to perform Significance Testing in Clustering?
+•	Q7:  What is the difference between a Multiclass problem and a Multilabel problem?
+•	Related To: Supervised Learning
+•	Q8:  What is the Jaccard Index?
+•	Q9:  What is the difference between the two types of Hierarchical Clustering?
+•	Related To: Unsupervised Learning
+•	Q10: While performing K-Means Clustering, how do you determine the value of K?
+•	Related To: K-Means Clustering
+•	Q11: What are some different types of Clustering Structures that are used in Clustering Algorithms?
+•	Q12: When would you use Hierarchical Clustering over Spectral Clustering?
+•	Q13: Compare Hierarchical Clustering and k-Means Clustering
+•	Related To: K-Means Clustering
+•	Q14: Where do the Similarities come from in Similarity-based Clustering?
+•	Q15: What is a Mixture Model?
+•	Related To: K-Means Clustering
+•	Q16: What is the Mixture in Gaussian Mixture Model?
+•	Q17: What is Latent Class Model?
+•	Q18: How would you perform an Observation-Based Clustering for Time-Series Data?
+•	Q19: Name some pros and cons of Mean Shift Clustering
+•	Q20: How can Evolutionary Algorithms be used for Clustering?
+•	Related To: Genetic Algorithms
+•	Q21: What is Silhouette Analysis?
+•	Q22: What is the difference between the Manhattan Distance and Euclidean Distance in Clustering?
+•	Related To: K-Means Clustering
+•	Q23: What would be a good way to use Clustering for Outlier detection?
+•	Related To: Anomaly Detection
+•	Q24: What are some of the differences between Anomaly Detection and Behaviour Detection?
+•	Related To: Anomaly Detection
+•	Q25: What is the difference and connection between Clustering and Dimension Reduction?
+•	Related To: Unsupervised Learning, Dimensionality Reduction
+•	Q26: Why does K-Means have a higher bias when compared to Gaussian Mixture Model?
+•	Related To: Unsupervised Learning
+•	Q27: Explain how a cluster is formed in the DBSCAN Clustering Algorithm
+•	Related To: Unsupervised Learning
+•	Q28: What makes the distance measurement of k-Medoids better than k-Means?
+•	Related To: K-Means Clustering
+•	Q29: When using various Clustering Algorithms, why is Euclidean Distance not a good metric in High Dimensions?
+•	Q30: When would you use Hierarchical Clustering over k-Means Clustering?
+•	Related To: K-Means Clustering
+•	Q31: How would you choose the number of Clusters when designing a K-Medoid Clustering Algorithm?
+•	Related To: K-Means Clustering
+•	Q32: Explain the Dirichlet Process Gaussian Mixture Model
+•	Q33: Why is Euclidean Distance not good for Sparse Data?
+•	Q34: When would you use Segmentation over Clustering?
+•	Q35: How to tell if data is clustered enough for clustering algorithms to produce meaningful results?
+•	Related To: K-Means Clustering, Unsupervised Learning
+•	Q36: How to choose among the various clustering Distance Measures?
+•	Q37: How does Cluster Algorithms work on detecting Anomalies when the cluster sizes are different?
+•	Related To: Anomaly Detection
+•	Q38: What are some characteristics of Clustering Algorithms concerning Anomaly Detection?
+•	Related To: Anomaly Detection
+•	Q39: Explain the different frameworks used for k-Means Clustering
+•	Related To: K-Means Clustering
+•	Q40: What is the motivation behind the Expectation-Maximization Algorithm?
+•	Q41: What is the relationship between k-Means Clustering and PCA?
+•	Related To: K-Means Clustering, PCA
+•	Computer Vision Q&As
+•	Q1:   What is the difference between Semantic Segmentation and Instance Segmentation in Computer Vision?
+•	Q2:  What's the difference between Computer Vision and Image Processing?
+•	Q3:  How can you evaluate the predictions in an Object Detection model?
+•	Q4:  What is a Descriptor and how many types of them do you know?
+•	Q5:  What types of features in Computer Vision do you know?
+•	Q6:  What are the main steps in a typical Computer Vision pipeline?
+•	Q7:  What makes a Good Feature for Object Recognition?
+•	Q8:  What is the difference between Feature Detection and Feature Extraction?
+•	Q9:  What are the main steps in a Face Recognition process?
+•	Q10: Provide an intuitive explanation of how The Sliding Window approach works in Object Detection
+•	Q11: How does the Non-Max Suppression technique work?
+•	Q12: When would you use Homographies as a Transformation technique?
+•	Q13: How do Neural Networks distinguish useful features from non-useful features in Computer Vision?
+•	Related To: Neural Networks
+•	Q14: How would you decide when to grayscale the input images for a Computer Vision problem?
+•	Q15: How can you represent an Image as a Function?
+•	Q16: What Image Processing algorithms do you know?
+•	Q17: What's the difference between Sampling and Quantization?
+•	Q18: What Image Noise Filters techniques do you know?
+•	Q19: What's the difference between Linear Filters and Non-Linear Filters?
+•	Q20: How does Image Registration work?
+•	Q21: How to detect Edges in an image?
+•	Q22: What Face Recognition methods do you know?
+•	Q23: What Morphological Operations do you know?
+•	Q24: What Image Thresholding methods do you know?
+•	Q25: What would you do if you need to train an Image Classification network and don't have enough data?
+•	Q26: What are the main steps in Feature Detection and Matching in Computer Vision?
+•	Q27: What Deep Learning architectures do you know for Object Detection?
+•	Related To: Deep Learning
+•	Q28:   How does Region-Based CNN are used in Object Detection?
+•	Q29:   What types of Keypoints do you know?
+•	Q30:   What's the advantage of using Anchor Boxes for Object Detection?
+•	Related To: Neural Networks
+•	Q31:   What are the Affine Transformations and why would you use them?
+•	Q32:   Compare Sobel vs Canny techniques for Edge Detection in Computer Vision
+•	Q33:   Are there any problems when using YOLO architecture for object detection?
+•	Q34:   What Image Segmentation Loss Functions do you know?
+•	Q35:   Why are Keypoint Descriptors useful in Computer Vision?
+•	Q36:   What's the difference between SIFT and SURF?
+•	Cost Function Q&As
+•	Q1:   What is the difference between Cost Function vs Gradient Descent?
+•	Related To: Gradient Descent
+•	Q2:   Explain the steps of k-Means Clustering Algorithm
+•	Related To: K-Means Clustering
+•	Q3:   Provide an analogy for a Cost Function in real life
+•	Q4:   Explain what is Cost (Loss) Function in Machine Learning?
+•	Q5:   What is the difference between Objective function, Cost function and Loss function
+•	Q6:   Why don’t we use Mean Squared Error as a cost function in Logistic Regression?
+•	Related To: Logistic Regression
+•	Q7:   How would you fix Logistic Regression Overfitting problem?
+•	Related To: Linear Regression, Model Evaluation
+•	Q8:   What is the Hinge Loss in SVM?
+•	Related To: SVM, Classification
+•	Q9:   What type of Cost Functions do Greedy Splitting use?
+•	Related To: Decision Trees
+•	Q10:  How would you choose the Loss Function for a Deep Learning model?
+•	Related To: Deep Learning
+•	Q11:  What is the Objective Function of k-Means?
+•	Related To: K-Means Clustering
+•	Q12:  What Distance Function do you use for Quantitative Data?
+•	Related To: Data Processing
+•	Q13:   What are some necessary Mathematical Properties a Loss Function needs to have in Gradient-Based Optimization?
+•	Related To: Gradient Descent
+•	Curse of Dimensionality Q&As
+•	Q1:   What is the Curse of Dimensionality?
+•	Related To: Dimension Reduction
+•	Q2:   What is the Curse of Dimensionality and how can Unsupervised Learning help with it?
+•	Related To: Unsupervised Learning, Dimensionality Reduction
+•	Q3:   Why is data more sparse in a high-dimensional space?
+•	Related To: Data Processing, Dimensionality Reduction
+•	Q4:   How does the Curse of Dimensionality affect Machine Learning models?
+•	Related To: Dimensionality Reduction
+•	Q5:   How does High Dimensionality affect Distance-Based Mining Applications?
+•	Related To: Data Mining, Dimensionality Reduction
+•	Q6:   How does the Curse of Dimensionality affect Privacy Preservation?
+•	Related To: Dimensionality Reduction
+•	Q7:   Does kNN suffer from the Curse of Dimensionality and if it why?
+•	Related To: K-Nearest Neighbors, Dimensionality Reduction
+•	Q8:   What are some trade-offs when using Embeddings in Machine Learning?
+•	Related To: ML Design Patterns
+•	Q9:   Explain Curse of Dimensionality to a child
+•	Related To: Dimension Reduction
+•	Q10:  How does the Curse of Dimensionality affect k-Means Clustering?
+•	Related To: K-Means Clustering, Dimensionality Reduction
+•	Q11:  How does a Deep Neural Network escape/resist the Curse of Dimensionality?
+•	Related To: Deep Learning, Dimensionality Reduction
+•	Q12:  Does linear SVMs suffer from the Curse of Dimensionality?
+•	Related To: SVM, Dimensionality Reduction
+•	Q13:  Why does the hyperparameter optimisation method GridSearch suffer from the Curse of Dimensionality?
+•	Related To: Dimensionality Reduction
+•	Q14:  Does Random Forest suffer from the Curse of Dimensionality?
+•	Related To: Random Forests, Dimensionality Reduction
+•	Data Mining Q&As
+•	Q1:   What is the difference between Data Processing and Data Mining?
+•	Related To: Data Processing
+•	Entry 
+•	Q2:   What is the difference between Data Mining, Statistics, Machine Learning and AI?
+•	Related To: Statistics
+•	Q3:   Briefly describe the process of Data Mining
+•	Q4:   What are some different types of Data Mining Techniques?
+•	Q5:   What are some applications for Data Mining?
+•	Q6:   How does High Dimensionality affect Distance-Based Mining Applications?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q7:   What is Frequent Pattern Mining?
+•	Q8:   What are the differences between Machine Learning, Data Mining, and Pattern Recognition?
+•	Related To: Machine Learning
+•	Q9:   How do you measure Similarity in Data Mining?
+•	Q10:  What is the difference between Rectangular Data and Non-Rectangular Data?
+•	Q11:  What are some Similarity Measures used for Sequence Data?
+•	Related To: Time Series
+•	Q12:  Does Noisy Data benefit Bayesian?
+•	Related To: Naïve Bayes
+•	Q13:  How is Computational Complexity measured in Ensemble Learning?
+•	Related To: Ensemble Learning
+•	Data Processing Q&As
+•	Q1:   What is Data Preprocessing? What preprocessing steps do you know? 
+•	Entry 
+•	Q2:   What is the difference between Data Processing and Data Mining?
+•	Related To: Data Mining
+•	Entry 
+•	Q3:   What is Data Binning?
+•	Entry 
+•	Q4:   What's the difference between Feature Engineering vs. Feature Selection?
+•	Related To: Feature Engineering
+•	Entry 
+•	Q5:   What's the difference between Covariance and Correlation?
+•	Related To: Linear Regression
+•	Q6:   Would you use K-NN for large datasets?
+•	Related To: K-Nearest Neighbors
+•	Q7:   What is Cross-Validation and why is it important in supervised learning?
+•	Related To: Supervised Learning
+•	Q8:   What is the difference between Feature Selection and Feature Extraction?
+•	Q9:   Explain how do you understand Dimensionality Reduction
+•	Related To: Dimensionality Reduction
+•	Q10:  Name some benefits of Feature Selection 
+•	Related To: Feature Engineering
+•	Q11:  What is the difference between Non-dependency and Dependency-oriented data?
+•	Q12:  Should your Test Data be Cleaned the same way that the Training Data is?
+•	Q13:  What is the difference between Normalization and Scaling?
+•	Q14:  What is the Importance of Data Reduction?
+•	Q15:  How can less Training Data give Higher Accuracy?
+•	Related To: SVM
+•	Q16:   Why is data more sparse in a high-dimensional space?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q17:   Name some methods you know for Rebalancing a dataset using Rebalancing Design Pattern 
+•	Related To: ML Design Patterns
+•	Q18:   What are some recommended choices for Imputation Values?
+•	Related To: ML Design Patterns, Feature Engineering
+•	Q19:   How does K-fold Cross Validation work?
+•	Q20:   What is the difference between Test Set and Validation Set?
+•	Related To: Machine Learning
+•	Q21:   What are the assumptions before applying the OLS estimator?
+•	Related To: Linear Regression
+•	Q22:   What are the difference between Type I and Type II errors?
+•	Related To: Machine Learning, Model Evaluation
+•	Q23:   What's the difference between Bagging and Boosting algorithms?
+•	Related To: Ensemble Learning, Classification, Bias & Variance
+•	Q24:   What's the difference between One-vs-Rest and One-vs-One?
+•	Related To: Classification
+•	Q25:   What are some disadvantages of using Decision Trees and how would you solve them?
+•	Related To: Decision Trees, Ensemble Learning
+•	Q26:   Name some best practices for working with Datasets
+•	Q27:   When you sample, what potential Sampling Biases could you be inflicting?
+•	Related To: Statistics, Bias & Variance
+•	Q28:   How would you determine the needed Sample Size?
+•	Related To: Statistics
+•	Q29:   How can you create a model with a very Unbalanced dataset? 
+•	Q30:   How to choose the features for a Neural Network?
+•	Related To: Feature Engineering, Neural Networks
+•	Q31:   When would you remove Correlated Variables?
+•	Related To: Feature Engineering
+•	Q32:   What are some common steps in Data Cleaning?
+•	Q33:   What Distance Function do you use for Quantitative Data?
+•	Related To: Cost Function
+•	Q34:   Is it a good idea to Clean the Data Automatically?
+•	Q35:   How do you Normalize Real-Time Data?
+•	Q36:   How do you choose the Scaling method used for Neural Networks?
+•	Related To: Neural Networks
+•	Q37:   If you are using k-Nearest Neighbors, what type of Normalization should be used?
+•	Related To: K-Nearest Neighbors
+•	Q38:   Can you use different Normalization methods on different features?
+•	Q39:   What is the l_1l1 Normalization of a data?
+•	Q40:   Explain the two types of Data Reducing Algorithms
+•	Q41:   How do you encode Categorical Data which consists of both Ordinal and Nominal data types?
+•	Q42:   When would you use Equal Frequency Binning and when do you use Equal Width Binning?
+•	Q43:   What are some reasons that data goes Missing?
+•	Q44:   How do you cope with Missing data in Regression?
+•	Related To: Linear Regression
+•	Q45:   Does Redundant data affect an SVM-based classifier?
+•	Related To: SVM
+•	Q46:   Explain some Encoding techniques for Categorical Data
+•	Q47:   What's the difference between StratifiedKFold (with shuffle = True) and StratifiedShuffleSplit in Scikit-Learn?
+•	Related To: Scikit-Learn
+•	Q48:   When to use OneHotEncoder vs LabelEncoder in Scikit-Learn?
+•	Related To: Scikit-Learn
+•	Q49:   Are there any problems with splitting data randomly into Training, Validation, and Test datasets? 
+•	Related To: ML Design Patterns
+•	Q50:   What are some variations of Cross-Validation?
+•	Q51:   Explain what is an Unrepresentative Dataset and how would you diagnose it?
+•	Related To: Linear Regression
+•	Q52:   How would you detect Heteroskedasticity?
+•	Related To: Linear Regression
+•	Q53:   How would you address the problem of Heteroskedasticity caused for a Measurement error?
+•	Related To: Linear Regression
+•	Q54:   How would you deal with Outliers in your dataset?
+•	Related To: Anomaly Detection, Linear Regression
+•	Q55:   How would you deal with an Imbalanced Dataset?
+•	Q56:   What's the difference between Random Oversampling and Random Undersampling and when they can be used?  Related To: Classification
+•	Q57: How would you use a Confusion Matrix for determining a model performance?
+•	Related To: Model Evaluation, Classification
+•	Q58: What is Multidimensional Scaling?
+•	Related To: Dimensionality Reduction
+•	Q59: Is mean imputation of missing data acceptable practice? Why or why not?
+•	Related To: Statistics
+•	Q60: When would you use chi-Square or an ANOVA test?
+•	Q61: How would you handle Missing Data and perform Data Imputation?
+•	Q62: Compare Causation vs Correlation
+•	Q63:   Which measures of Variability would you use on your data?
+•	Related To: Statistics
+•	Q64:   When you want (and do not want) to scale or standardize a variable prior to model fitting? 
+•	Q65:   How you can extract useful features from Date and Time column if any?
+•	Q66:   How could I (statistically) find features that are more important than others?
+•	Related To: Statistics
+•	Q67:   What are some approaches to get a quantitative estimate of a model's Maximum Predictive Power given a certain level of noise?
+•	Related To: Model Evaluation
+•	Q68:   Can Data Cleaning worsen the results of Statistical Analysis?
+•	Related To: Statistics
+•	Q69:   How would you check the Quality of your Dataset?
+•	Q70:   What are some benefits of Scaling the Data for Neural Networks?
+•	Related To: Neural Networks
+•	Q71:   How do you find the Covariance Matrix from Missing Data?
+•	Q72:   How does the Algorithm "The 10% You Don't Need" remove the Redundant Data?
+•	Related To: SVM
+•	Q73:   When would you use Sequential Split of data? 
+•	Related To: ML Design Patterns, Time Series
+•	Q74:   How does an ANOVA test work?
+•	Related To: Statistics
+•	Q75:   How to perform Feature Engineering on Unknown features?
+•	Related To: Feature Engineering
+•	Q76:   How would you normalise Longitude/Latitude feature?
+•	Q77:   How does Normalization reduce the Dimensionality of the Data if you project the data to a Unit Sphere?
+•	Related To: Dimensionality Reduction
+•	Q78:   How do you check if the Missing Data is Missing at Random (MAR) or Not?
+•	Q79:   Are there any troubles when using Early Stopping?
+•	Related To: ML Design Patterns, Model Evaluation, Neural Networks
+•	Q80:   When would you use Fine-Tuning vs Feature Extraction in Transfer Learning?
+•	Related To: ML Design Patterns, Feature Engineering
+•	Data Processing Practical Challenges
+•	Q1:   Between Clean and Noisy data, which one has higher Entropy?
+•	Data Structures Q&As
+•	Q1:   Define Stack
+•	Related To: Stacks
+•	Entry 
+•	Q2:   Explain why Stack is a recursive data structure
+•	Related To: Stacks
+•	Entry 
+•	Q3:   Define Linked List
+•	Related To: Linked Lists
+•	Entry 
+•	Q4:   Name some characteristics of Array Data Structure
+•	Related To: Arrays
+•	Entry 
+•	Q5:   What is Queue?
+•	Related To: Queues
+•	Entry 
+•	Q6:   What is Heap?
+•	Related To: Heaps and Maps
+•	Entry 
+•	Q7:   What is Hash Table?
+•	Related To: Hash Tables
+•	Entry 
+•	Q8:   What is Priority Queue?
+•	Related To: Heaps and Maps
+•	Entry 
+•	Q9:   Define Tree Data Structure
+•	Related To: Trees
+•	Entry 
+•	Q10:  What is a Graph?
+•	Related To: Graph Theory
+•	Entry 
+•	Q11:  What is String in Data Structures?
+•	Related To: Strings
+•	Entry 
+•	Q12:  What is Trie?
+•	Related To: Trie
+•	Entry 
+•	Q13:  Define Binary Tree
+•	Related To: Binary Tree, Trees
+•	Entry 
+•	Q14:  Why and when should I use Stack or Queue data structures instead of Arrays/Lists?
+•	Related To: Queues, Stacks
+•	Q15:  What is Complexity Analysis of Queue operations? 
+•	Related To: Queues
+•	Q16:  What are some types of Queue?
+•	Related To: Queues
+•	Q17:  What are some types of Linked List?
+•	Related To: Linked Lists
+•	Q18:  What are Dynamic Arrays?
+•	Related To: Arrays
+•	Q19:  Name some disadvantages of Linked Lists?
+•	Related To: Linked Lists
+•	Q20:  What is the space complexity of a Hash Table?
+•	Related To: Hash Tables
+•	Q21:  What is Binary Heap?
+•	Related To: Heaps and Maps, Binary Tree
+•	Q22:  What is Binary Search Tree?
+•	Related To: Binary Tree, Trees
+•	Q23:  What is the difference between Strings vs. Char arrays?
+•	Related To: Strings
+•	Q24:  What's the difference between the data structure Tree and Graph?
+•	Related To: Graph Theory, Trees
+•	Q25:  Under what circumstances are Linked Lists useful?
+•	Related To: Linked Lists
+•	Q26:   What is an Associative Array?
+•	Related To: Arrays
+•	Q27:   What does Sparse Array mean?
+•	Related To: Arrays
+•	Q28:   What is complexity of Hash Table?
+•	Related To: Hash Tables
+•	Q29:   Compare Heaps vs Arrays to implement Priority Queue
+•	Related To: Heaps and Maps
+•	Q30:   Name some application of Trie data structure
+•	Related To: Trie
+•	Q31:   What is AVL Tree?
+•	Related To: Binary Tree, Trees
+•	Q32:   What is Balanced Tree and why is that important?
+•	Related To: Binary Tree, Trees
+•	Q33:   Name some common types and categories of Graphs
+•	Related To: Graph Theory
+•	Q34:   What are some main advantages of Tries over Hash Tables
+•	Related To: Hash Tables, Trie
+•	Q35:   How would you traverse a Linked List in O(n1/2)?
+•	Related To: Linked Lists
+•	Q36:   What are Pascal Strings?
+•	Related To: Strings
+•	Q37:   When is doubly linked list more efficient than singly linked list?
+•	Related To: Linked Lists
+•	Q38:   What is Red-Black tree?
+•	Related To: Binary Tree, Trees
+•	Q39:   How To Choose Between a Hash Table and a Trie (Prefix Tree)?
+•	Related To: Hash Tables, Trie
+•	Q40:   What is Rope Data Structure is used for?
+•	Related To: Strings
+•	Q41:   Explain what is B-Tree?
+•	Related To: Trees
+•	Q42:   What is Bipartite Graph? How to detect one?
+•	Related To: Graph Theory
+•	Q43:   What is the Hughes Phenomenon?
+•	Related To: Dimensionality Reduction
+•	Q44:   Compare lookup operation in Trie vs Hash Table
+•	Related To: Hash Tables, Trie
+•	Q45:   How are B-Trees used in practice?
+•	Related To: Trees
+•	Data Structures Practical Challenges
+•	Q1:   Return the N-th value of the Fibonacci sequence. Solve in O(n) time
+•	JSJavaPY Related To: Fibonacci Series, Python
+•	Q2:   Return the N-th value of the Fibonacci sequence Recursively
+•	JSJavaPY Related To: Fibonacci Series, Python
+•	Q3:   How to implement a Tree data-structure? Provide some code.
+•	JavaPY Related To: Binary Tree, Trees, Python
+•	Q4:   Convert a Singly Linked List to Circular Linked List
+•	PY Related To: Linked Lists, Python
+•	Q5:   Implement Pre-order Traversal of Binary Tree using Recursion
+•	JavaPY Related To: Binary Tree, Python
+•	Q6:   How to merge two sorted Arrays into a Sorted Array?
+•	JSJavaPY Related To: Arrays, Python
+•	Q7:   Explain how Heap Sort works
+•	JSPY Related To: Heaps and Maps, Sorting, Python
+•	Q8:   LIS: Find length of the longest increasing subsequence (LIS) in the array. Solve using DP.
+•	JSJavaPY Related To: Dynamic Programming, Python
+•	Q9:   How to check if two Strings (words) are Anagrams?
+•	CSJavaPY Related To: Strings, Python
+•	Q10:  Find all the Permutations of a String
+•	JSJavaPY Related To: Backtracking, Strings, Python
+•	Q11:  Convert a Binary Tree to a Doubly Linked List
+•	JavaPY Related To: Binary Tree, Divide & Conquer, Linked Lists, Recursion, Python
+•	Q12:  Can you do Iterative Pre-order Traversal of a Binary Tree without Recursion?
+•	CSPY Related To: Binary Tree, Python
+•	Q13:  Explain how QuickSort works
+•	JSPY Related To: Divide & Conquer, Sorting, Python
+•	Q14:  Binet's formula: How to calculate Fibonacci numbers without Recursion or Iteration? 
+•	CSJSJavaPY Related To: Fibonacci Series, Python
+•	Q15:  Explain what is Fibonacci Search technique?
+•	CSJSJavaPY Related To: Divide & Conquer, Fibonacci Series, Searching, Python
+•	Q16:  How to implement 3 Stacks with one Array?
+•	Related To: Arrays, Stacks
+•	Q17:   Find the length of a Linked List which contains Cycle (Loop)
+•	JavaPY Related To: Linked Lists, Python
+•	Databases Q&As
+•	Q1:   What is Normalisation?
+•	Related To: SQL 
+•	Q2:   What are the advantages of NoSQL over traditional RDBMS?  Related To: NoSQL
+•	Q3:   Define ACID Properties   Related To: SQL
+•	Q4:   How a database index can help performance?   Related To: SQL
+•	Q5:   What is Denormalization?  Related To: SQL
+•	Q6:   What are the difference between Clustered and a Non-clustered index?   Related To: SQL
+•	Q7:   What's the difference between a Primary Key and a Unique Key?  Related To: SQL
+•	Q8:   When would you use NoSQL?   Related To: NoSQL
+•	Q9:   When should I use a NoSQL database instead of a relational database?  Related To: NoSQL
+•	Q10:  What is Optimistic locking?  Related To: Entity Framework
+•	Q11:  What Is ACID Property Of A System?   Related To: Software Architecture
+•	Q12:  What is the cost of having a database index?  Related To: SQL
+•	Q13:  Explain the difference between Exclusive Lock and Update Lock  Related To: SQL
+•	Q14:   How does B-trees Index work?   Related To: SQL
+•	Q15:   Explain eventual consistency in context of NoSQL   Related To: NoSQL
+•	Q16:   How do you track record relations in NoSQL?   Related To: NoSQL
+•	Q17:   What Is Sharding?   Related To: Software Architecture
+•	Q18:   What Is BASE Property Of A System?   Related To: Software Architecture, NoSQL
+•	Q19:   How do you off load work from the Database?   Related To: Software Architecture
+•	Q20:   What are some other types of Indexes (vs B-Trees)?   Related To: SQL
+•	Q21:   Name some disadvantages of a Hash index   Related To: SQL
+•	Q22:   What is Optimistic Locking and Pessimistic Locking?   Related To: SQL
+•	Q23:   How does database Indexing work?   Related To: SQL
+•	Q24:   What is the difference between B-Tree, R-Tree and Hash indexing?   Related To: SQL
+•	Q25:   Explain the differences in conceptual data design with NoSQL databases?
+•	Related To: NoSQL
+•	Q26:   What Does Eventually Consistent Mean?
+•	Related To: Software Architecture
+•	Q27:   Is the C in ACID is not the C in CAP?
+•	Related To: CAP Theorem, NoSQL
+•	Q28:   How do you make schema changes to a live database without downtime?
+•	Related To: PostgreSQL, MySQL
+•	Q29:   Why you should never use GUIDs as part of clustered index?
+•	Related To: MySQL, PostgreSQL, T-SQL
+•	Decision Trees Q&As
+•	Q1:   What are Decision Trees?
+•	Related To: Supervised Learning
+•	Entry 
+•	Q2:   Explain the structure of a Decision Tree
+•	Related To: Supervised Learning
+•	Q3:   How are the different nodes of decision trees represented?
+•	Related To: Supervised Learning
+•	Q4:   What are some advantages of using Decision Trees?
+•	Q5:   What type of node is considered Pure?
+•	Q6:   How is a Random Forest related to Decision Trees?
+•	Related To: Ensemble Learning, Random Forests
+•	Q7:   What is the difference between OOB score and validation score?
+•	Related To: Ensemble Learning, Random Forests
+•	Q8:   How would you deal with an Overfitted Decision Tree?
+•	Q9:   What are some disadvantages of using Decision Trees and how would you solve them?
+•	Related To: Ensemble Learning, Data Processing
+•	Q10:  What is Greedy Splitting?
+•	Q11:  What type of Cost Functions do Greedy Splitting use?
+•	Related To: Cost Function
+•	Q12:  How would you define the Stopping Criteria for decision trees?
+•	Q13:  Why do you need to Prune the decision tree?
+•	Q14:  What is Entropy?
+•	Related To: Machine Learning
+•	Q15:  How do we measure the Information?
+•	Related To: Machine Learning
+•	Q16:  What is Gini Index and how is it used in Decision Trees?
+•	Q17:  What is the Chi-squared test?
+•	Q18:  How does the CART algorithm produce Classification Trees?
+•	Q19:  How does the CART algorithm produce Regression Trees?
+•	Q20:  What is the difference between Post-pruning and Pre-pruning?
+•	Q21:  Compare Linear Regression and Decision Trees
+•	Related To: Linear Regression
+•	Q22:  What is Tree Bagging?
+•	Related To: Ensemble Learning
+•	Q23:  What is Tree Boosting?
+•	Related To: Ensemble Learning
+•	Q24:  How would you tune a Random Forest algorithm to improve its performance?
+•	Q25:  How to use Isolation Forest for Anomalies detection?
+•	Related To: Anomaly Detection
+•	Q26:  Imagine that you know there are outliers in your data, would you use Logistic Regression?
+•	Related To: Anomaly Detection, Logistic Regression, Random Forests
+•	Q27:  What is the use of Entropy pertaining to Decision Trees?
+•	Related To: Machine Learning
+•	Q28:  While building Decision Tree how do you choose which attribute to split at each node?
+•	Q29:  What is difference between Gini Impurity and Entropy in Decision Tree?
+•	Q30:  When should I use Gini Impurity as opposed to Information Gain (Entropy)?
+•	Q31:  Explain the CHAID algorithm
+•	Q32:  What are some disadvantages of the CHAID algorithm?
+•	Q33:  Explain how can CART algorithm performs Pruning?
+•	Q34:  Explain how ID3 produces classification trees?
+•	Q35:  How would you compare different Algorithms to build Decision Trees?
+•	Q36:  Compare ID3 and C4.5 algorithms
+•	Q37:  Compare C4.5 and C5.0 algorithms
+•	Q38:  What is the relationship between Information Gain and Information Gain Ratio?
+•	Q39:  How do you Gradient Boost decision trees?
+•	Related To: Ensemble Learning
+•	Q40:   Compare Decision Trees and Logistic Regression
+•	Related To: Logistic Regression
+•	Q41:   What are the differences between Decision Trees and Neural Networks?
+•	Related To: Neural Networks
+•	Q42:   Compare Decision Trees and k-Nearest Neighbors
+•	Related To: K-Nearest Neighbors
+•	Q43:   What is the Variance Reduction metric in Decision Trees?
+•	Q44:   What is the difference between Gradient Boosting and Adaptive Boosting?
+•	Related To: Supervised Learning
+•	Q45:   What are the steps for Binary Recursive Partitioning in Decision Trees?
+•	Q46:   Explain the measure of goodness used by CART
+•	Q47:   How do you extend Decision Trees to Collaborative Filtering?
+•	Related To: Recommendation Systems
+•	Decision Trees Practical Challenges
+•	Q1:   How to extract the decision rules from Scikit-learn decision tree?
+•	Related To: Scikit-Learn
+•	Q2:   Explain how you would implement CART training algorithm in plain Python
+•	PY Related To: Python
+•	Deep Learning Q&As
+•	Q1:   What is the difference between Machine Learning and Deep Learning?
+•	Entry 
+•	Q2:   What are Ensemble methods and how are they useful in Deep Learning?
+•	Entry 
+•	Q3:   What advantages does Deep Learning have over Machine Learning?
+•	Related To: Feature Engineering
+•	Q4:   Why does the performance of Deep Learning improve as more data is fed to it?
+•	Q5:   What is the difference between Deep Learning and Artificial Neural Networks?
+•	Related To: Neural Networks
+•	Q6:   How would you choose the Activation Function for a Deep Learning model?
+•	Q7:   How does Ensemble Systems help in Incremental Learning?
+•	Related To: Ensemble Learning
+•	Q8:   Why would you use an Embedding Layer?
+•	Q9:   How to know whether your model is suffering from the problem of Vanishing Gradients?
+•	Related To: Neural Networks
+•	Q10:  How to know whether your model is suffering from the problem of Exploding Gradients?
+•	Related To: Model Evaluation, Neural Networks
+•	Q11:  Explain the working of a Perceptron
+•	Related To: Neural Networks
+•	Q12:  How would you choose the Loss Function for a Deep Learning model?
+•	Related To: Cost Function
+•	Q13:  What are Computation Graphs?
+•	Q14:  What is Early Stopping in Deep Learning?
+•	Related To: Neural Networks
+•	Q15:  What happens when you trade the Breadth of a Neural Network for the Depth?
+•	Related To: Neural Networks
+•	Q16:  What does the hidden layer in a Neural Network compute?
+•	Related To: Neural Networks
+•	Q17:  What does 1x1 convolution mean in a Neural Network?
+•	Related To: Neural Networks
+•	Q18:  What is the difference between Linear Activation Function and Non-linear Activation Function?
+•	Q19:  What is the importance of using Non-linear Activation function?
+•	Q20:  What are Generative Adversarial Networks?
+•	Related To: Neural Networks
+•	Q21:  What is a Boltzmann Machine?
+•	Related To: Neural Networks
+•	Q22:  How does Randomized Connection Dropping affect the Deep Learning model?
+•	Related To: Neural Networks
+•	Q23:  Can autoencoders be used for feature generation? If yes, how?
+•	Related To: Autoencoders
+•	Q24:  What Neural Network Architecture could you use to classify videos?
+•	Related To: Neural Networks
+•	Q25:  What is Transfer learning and how can you implement it in Keras?
+•	Related To: Keras
+•	Q26:  How can you convert a Dense Layer of a CNN into a Fully Convolutional Layer?
+•	Related To: Neural Networks
+•	Q27:  What's the difference between concatenate and add layers in Keras and when would you use each one?   Related To: Keras
+•	Q28: What's the difference between GAN and autoencoders?
+•	Related To: Autoencoders
+•	Q29: Describe two ways to visualize features of a CNN in an image classification task
+•	Related To: Neural Networks
+•	Q30:   Are there any problems when using Batch Normalization in Deep Neural Networks?
+•	Q31:   What's the difference between Batch Normalization, Instance Normalization and Layer Normalization?
+•	Q32:   What is multi-task learning and when should it be used?
+•	Q33:   What is the purpose of the ROI layer in a Fast R-CNN?
+•	Related To: Neural Networks
+•	Q34:   What's the difference between an Autoencoder and Variational Autoencoder?
+•	Related To: Autoencoders
+•	Q35:   Name some CNNs architectures that you know
+•	Related To: Neural Networks
+•	Q36:   What are the benefits of Pre-training?
+•	Q37:   Why does a Deep Neural Network work better than a Shallow Neural Network?
+•	Related To: Neural Networks
+•	Q38:   What is the difference between Deep Learning and SVM?
+•	Related To: SVM
+•	Q39:   What are the advantages of ReLU over Sigmoid function in Deep Neural networks?
+•	Q40:   How is Fourier Transform used to the benefit of Deep Learning?
+•	Q41:   How are Ensemble Methods used with Deep Neural Networks?
+•	Related To: Ensemble Learning
+•	Q42:   How does a Deep Neural Network escape/resist the Curse of Dimensionality?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q43:   When would you need to create a dynamic Keras model?
+•	Related To: Keras
+•	Q44:   What's the difference between Region-based Convolutional Neural Network (R-CNN), Fast R-CNN and Faster R-CNN?
+•	Q45:   How many ways to implement Skip Connections do you know?
+•	Related To: Neural Networks
+•	Q46:   Compare Hidden Markov Model vs Recurrent Neural Networks for solving sequence tasks
+•	Related To: Neural Networks
+•	Q47:   What are the main difficulties when training GANs?
+•	Q48:    When would you use a Deep Recurrent Q-Network?
+•	Related To: Reinforcement Learning
+•	Q49:   What Deep Learning architectures do you know for Object Detection?
+•	Related To: Computer Vision
+•	Q50:   How can you optimise the architecture of a Deep Learning classifier using Genetic Algorithms?
+•	Related To: Genetic Algorithms
+•	Q51:   Suppose you want to train a classifier, and you have plenty of unlabeled training data but only a few thousand labeled instances. How would you proceed?
+•	Q52:   How GANs models are trained?
+•	Q53:   Can you name the main innovations in AlexNet, compared to LeNet-5? What about the main innovations in GoogLeNet and ResNet?
+•	Deep Learning Practical Challenges
+•	Q1:   Using Keras, construct a simple autoencoder architecture using Dense layers and a Sequential model for 784-dimensional data
+•	Related To: Keras, Neural Networks
+•	Dimensionality Reduction Q&As
+•	Q1:   What is the Curse of Dimensionality and how can Unsupervised Learning help with it?
+•	Related To: Unsupervised Learning, Curse of Dimensionality
+•	Q2:   What is Principal Component Analysis (PCA)?
+•	Related To: PCA
+•	Q3:   Explain how do you understand Dimensionality Reduction
+•	Related To: Data Processing
+•	Q4:   Explain One-Hot Encoding and Label Encoding. Does the dimensionality of the dataset increase or decrease after applying these techniques?
+•	Related To: Feature Engineering
+•	Q5:   How is the first principal component axis selected in PCA?
+•	Related To: PCA
+•	Q6:   Why is data more sparse in a high-dimensional space?
+•	Related To: Data Processing, Curse of Dimensionality
+•	Q7:   How does the Curse of Dimensionality affect Machine Learning models?
+•	Related To: Curse of Dimensionality
+•	Q8:   What methods of Hyperparameters Tuning do you know?
+•	Related To: Optimisation, ML Design Patterns, Model Evaluation
+•	Q9:   When would you use Grid Search vs Random Search for Hyperparameter Tuning?
+•	Related To: Optimisation, ML Design Patterns
+•	Q10:  What are some advantages of using LLE over PCA?
+•	Related To: Unsupervised Learning, PCA
+•	Q11:  How does an Isomap perform Dimensionality Reduction?
+•	Q12:  What are the two branches of Dimensionality Reduction?
+•	Q13:  Why is Centering and Scaling the data important before performing PCA?
+•	Related To: Linear Algebra, PCA
+•	Q14:  What is Singular Value Decomposition?
+•	Q15:  How does Random Projection reduce the dimensionality of a set of points?
+•	Q16:  What is the difference between PCA and Random Projection approaches?
+•	Related To: PCA
+•	Q17:  Explain the Sparse Random Projection
+•	Q18:  How does High Dimensionality affect Distance-Based Mining Applications?
+•	Related To: Data Mining, Curse of Dimensionality
+•	Q19:  How does the Curse of Dimensionality affect Privacy Preservation?
+•	Related To: Curse of Dimensionality
+•	Q20:  How many Dimensionality Reduction Techniques do you know?
+•	Q21:  What is the Crowding Problem?
+•	Q22:  What's the difference between PCA and t-SNE?
+•	Related To: PCA
+•	Q23:  What is the difference and connection between Clustering and Dimension Reduction?
+•	Related To: Clustering, Unsupervised Learning
+•	Q24:  Does kNN suffer from the Curse of Dimensionality and if it why?
+•	Related To: K-Nearest Neighbors, Curse of Dimensionality
+•	Q25:  Explain the Locally Linear Embedding algorithm for Dimensionality Reduction
+•	Related To: Unsupervised Learning
+•	Q26:  What is Multidimensional Scaling?
+•	Related To: Data Processing
+•	Q27:  When would you use Manifold Learning techniques over PCA?
+•	Related To: PCA
+•	Q28:  What is Sparse PCA?
+•	Related To: PCA
+•	Q29:  What is Kernel Principal Component Analysis?
+•	Q30:  What are the rules for generating a random matrix when Gaussian Random Projection is used?
+•	Q31:  What is t-Distributed Stochastic Neighbour Embedding?
+•	Q32:  How does the Curse of Dimensionality affect k-Means Clustering?
+•	Related To: K-Means Clustering, Curse of Dimensionality
+•	Q33:  What is Independent Component Analysis?
+•	Q34:  How does Isometric Mapping (Isomap) work?
+•	Q35:  How does a Deep Neural Network escape/resist the Curse of Dimensionality?
+•	Related To: Deep Learning, Curse of Dimensionality
+•	Q36:  Does linear SVMs suffer from the Curse of Dimensionality?
+•	Related To: SVM, Curse of Dimensionality
+•	Q37:  Why does the hyperparameter optimisation method GridSearch suffer from the Curse of Dimensionality?
+•	Related To: Curse of Dimensionality
+•	Q38:  What is the Hughes Phenomenon?
+•	Related To: Data Structures
+•	Q39:  Does Random Forest suffer from the Curse of Dimensionality?
+•	Related To: Random Forests, Curse of Dimensionality
+•	Q40:  How does Normalization reduce the Dimensionality of the Data if you project the data to a Unit Sphere?
+•	Related To: Data Processing
+•	Q41:  How does the Metric Multidimensional Scaling (MDS) algorithm reduce dimensionality?
+•	Dimensionality Reduction Practical Challenges
+•	Q1:   If we have a date column in our dataset, then how will you perform Feature Engineering using Python?
+•	Related To: Pandas, Feature Engineering
+•	Ensemble Learning Q&As
+•	Q1:   What is Ensemble Learning?
+•	Entry 
+•	Q2:   How would you define Random Forest?
+•	Related To: Random Forests
+•	Entry 
+•	Q3:   What are Weak Learners?
+•	Related To: Machine Learning
+•	Q4:   What are Ensemble Methods?
+•	Related To: Random Forests
+•	Q5: How is a Random Forest related to Decision Trees?
+•	Related To: Decision Trees, Random Forests
+•	Q6: What are the differences between Bagging and Boosting?
+•	Q7: How does Stacking work?
+•	Q8: Since Ensemble Learning provides better output most of the time, why do you not use it all the time?
+•	Q9: Would it defeat the purpose of Ensemble Learning to exclude Outliers?
+•	Q10:What are the differences between Homogeneous and Heterogeneous Ensembles?
+•	Q11:What is a Super Learner Algorithm?
+•	Q12:What is Meta-Learning?
+•	Q13:Is Random Forest an Ensemble Algorithm?
+•	Related To: Random Forests
+•	Q14:What are some Real-World Applications of Ensemble Learning?
+•	Q15:How does Ensemble Systems help in Incremental Learning?
+•	Related To: Deep Learning
+•	Q16:What's the similarities and differences between Bagging, Boosting, Stacking?
+•	Related To: Machine Learning
+•	Q17:Explain the concept behind BAGGing
+•	Related To: Random Forests
+•	Q18:What is the difference between OOB score and validation score?
+•	Related To: Decision Trees, Random Forests
+•	Q19:What is the difference between a Weak Learner vs a Strong Learner and why they could be usefu?
+•	Related To: Classification
+•	Q20:What's the difference between Bagging and Boosting algorithms?
+•	Related To: Data Processing, Classification, Bias & Variance
+•	Q21:How does the AdaBoost algorithm work?
+•	Related To: Classification
+•	Q22:What are some disadvantages of using Decision Trees and how would you solve them?
+•	Related To: Decision Trees, Data Processing
+•	Q23:What is Tree Bagging?
+•	Related To: Decision Trees
+•	Q24:What is Tree Boosting?
+•	Related To: Decision Trees
+•	Q25:How is Gradient Boosting used to improve Supervised Learning?
+•	Related To: Supervised Learning
+•	Q26:What is the process of building an Ensemble System?
+•	Q27:What is the Bagging Algorithm?
+•	Q28:What are some variants of the AdaBoost Algorithm?
+•	Q29:Is it posible to apply Ensemble Learning methods to the Quantile Regression Problem?
+•	Q30:Why is Model Stacking effective in improving Performance?
+•	Q31:What is the difference between Ensemble Learning and Multiple Kernel Learning?
+•	Q32:In what situations do you not use Ensemble Classifiers?
+•	Q33:Explain the architecture of a Super Learner Algorithm
+•	Q34:Why do Ensemble Models work better when the Models have Low Correlation?
+•	Q35:What are Ensemble Nystrom Algorithms?
+•	Q36:Give some reasons to choose Random Forests over Neural Networks
+•	Related To: Random Forests, Neural Networks
+•	Q37:What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?
+•	Related To: Naïve Bayes, Classification
+•	Q38:How do you Gradient Boost decision trees?
+•	Related To: Decision Trees
+•	Q39:Explain Discrete AdaBoost Algorithm
+•	Q40:Can you use the LASSO method for Base Learner Selection?
+•	Q41:How does Ensemble Learning tackle the No-Free Lunch Dilemma?
+•	Q42:How do you decide to use between Gradient Boosting Trees and Random Forest?
+•	Q43:What are the methods to evaluate Ensembles of Classifiers?
+•	Q44:How are Ensemble Methods used with Deep Neural Networks?
+•	Related To: Deep Learning
+•	Q45:How would you find the optimal number of random features to consider at each split?
+•	Related To: Random Forests
+•	Q46:How would you apply the Standard Mixture Models in the context of Regression?
+•	Q47:Summarize the Statistical, Computational, and Representational motivation of Ensemble Learning
+•	Q48:How is Computational Complexity measured in Ensemble Learning?
+•	Related To: Data Mining
+•	Q49:Explain mathematically the Ensemble Nystrom algorithm
+•	Feature Engineering Q&As
+•	Q1: What are some common Machine Learning problems that Unsupervised Learning can help with?
+•	Related To: Unsupervised Learning
+•	Entry 
+•	Q2:What's the difference between Feature Engineering vs. Feature Selection?
+•	Related To: Data Processing
+•	Entry 
+•	Q3:What advantages does Deep Learning have over Machine Learning?
+•	Related To: Deep Learning
+•	Q4:Name some benefits of Feature Selection 
+•	Related To: Data Processing
+•	Q5:Explain One-Hot Encoding and Label Encoding. Does the dimensionality of the dataset increase or decrease after applying these techniques?
+•	Related To: Dimensionality Reduction
+•	Q6:What are the basic objects that a ML pipeline should contain?
+•	Related To: Scikit-Learn
+•	Q7:How do you use the F-test to select features? 
+•	Q8:What's the difference between Forward Feature Selection and Backward Feature Selection?
+•	Q9:Can we use PCA for feature selection?
+•	Related To: PCA
+•	Q10:What are some recommended choices for Imputation Values?
+•	Related To: ML Design Patterns, Data Processing
+•	Q11:How would you improve the performance of Random Forest?
+•	Related To: Random Forests
+•	Q12:How would you decide on the importance of variables for the Multivariate Regression model? 
+•	Related To: Linear Regression
+•	Q13:How has Translation of words improved from the Traditional methods?
+•	Related To: NLP, Neural Networks
+•	Q14:How to choose the features for a Neural Network?
+•	Related To: Data Processing, Neural Networks
+•	Q15:When would you remove Correlated Variables?
+•	Related To: Data Processing
+•	Q16:How do you perform End of Tail Imputation?
+•	Q17:What Feature Selection methods do you know?
+•	Q18:How do you perform feature selection with Categorical Data?
+•	Q19:How do you transform a Skewed distribution into a Normal distribution?
+•	Related To: Statistics
+•	Q20:How do you perform Principal Component Analysis (PCA)?
+•	Related To: PCA
+•	Q21:Explain the Stepwise Regression technique
+•	Related To: Linear Regression
+•	Q22:How does the Recursive Feature Elimination (RFE) work?
+•	Q23:Why would you use Permutation Feature Importance and how does this algorithm work?
+•	Q24:What's the difference between Principal Component Analysis and Independent Component Analysis?
+•	Related To: PCA
+•	Q25:How to perform Feature Engineering on Unknown features?
+•	Related To: Data Processing
+•	Q26:When would you use Fine-Tuning vs Feature Extraction in Transfer Learning?
+•	Related To: ML Design Patterns, Data Processing
+•	Feature Engineering Practical Challenges
+•	Q1: If we have a date column in our dataset, then how will you perform Feature Engineering using Python?
+•	Related To: Pandas, Dimensionality Reduction
+•	Genetic Algorithms Q&As
+•	Q1:How are Genetics represented in the Genetic Algorithm?
+•	Q2:How would you describe what Genetic Algorithms are?
+•	Q3:Explain some basic concepts and terms related to Genetic Algorithm
+•	Q4:What is a Fitness Function?
+•	Q5:What is a Mutation and why is it programmed into the algorithm?
+•	Q6:What are some advantages of Genetic Algorithms?
+•	Q7:Explain the concept of Elitism in Genetic Algorithms
+•	Q8:How are Crossover and Mutation methods performed for Real-Coded Chromosomes?
+•	Q9:Explain the Schema Theorem
+•	Q10:What are the differences between Genetic Algorithms and Traditional Search and Optimization Algorithms?
+•	Q11:When are Genetic Algorithms useful?
+•	Q12:What are some disadvantages of Genetic Algorithms?
+•	Q13:What are some Stopping Conditions that a genetic algorithm may implement?
+•	Q14:What is Roulette Wheel Selection?
+•	Q15:What is the difference between Stochastic Universal Sampling and Roulette Wheel Selection?
+•	Q16:How to perform Rank Based Selection in a Genetic Algorithm?
+•	Q17:How do you perform the Tournament Selection?
+•	Q18:What is the difference between Mutation and Crossover?
+•	Q19:What are Evolution Strategies?
+•	Q20:What are Variation Operators in Genetic Algorithms ?
+•	Q21:How can Genetic Algorithms be used to improve the accuracy of other ML algorithms?
+•	Q22:What is the Vehicle Routing Problem in the context of Search Algorithms?
+•	Q23:What is the Travelling Salesman Problem in the context of Search Algorithms?
+•	Q24:Can you explain Elitism in a context of Genetic Algorithms and it's impact on GA performance?
+•	Q25:What is the difference between Tournament Selection and Elitism in Genetic Algorithm?
+•	Q26:What are the advantages of using Floating-Point number to represent chromosomes instead of Binary numbers?
+•	Q27:Name some types of Mutation in GA
+•	Q28:What is a Uniform Crossover?
+•	Q29:Compare the Single-Point and Two-Point crossover
+•	Q30:How can Evolutionary Algorithms be used for Clustering?
+•	Related To: Clustering
+•	Q31:When are Genetic Algorithms a good choice for Optimisation?
+•	Related To: Optimisation
+•	Q32:Compare Roulette Wheel Selection and Rank-Based Selection
+•	Q33:Why is Cross-over a part of Genetic Algorithms? Wouldn't Mutation be enough?
+•	Q34:How do Mutation and Crossover work with real-valued chromosomes?
+•	Q35:How is Differential Evolution different from Genetic Algorithms?
+•	PY Related To: Python
+•	Q36:What are the distinctions between Genetic Algorithms and Evolution Strategies?
+•	Q37:What is Genetic Programming?
+•	Q38:Can you explain how Genetic Algorithms related to Darwinian Natural Selection?
+•	Q39:What are Constraint Satisfaction Problems and why is Genetic Algorithms suited to solve them?
+•	Q40:What is Time Complexity of a basic Genetic Algorithm?
+•	Q41:What is Niching in a Genetic Algorithm?
+•	Q42:Explain BLX-α algorithm for Crossover implementation
+•	Q43:How can you optimise the architecture of a Deep Learning classifier using Genetic Algorithms?
+•	Related To: Deep Learning
+•	Q44:How would you encode the structure of a Neural Network into a genome?
+•	Related To: Neural Networks
+•	Q45:What is NEAT (Neuroevolution of Augmenting Topologies) algorithm?
+•	Related To: Neural Networks
+•	Q46:What is the difference between Memetic Algorithms and Genetic Algorithms?
+•	Gradient Descent Q&As
+•	Q1:What is the difference between Cost Function vs Gradient Descent?
+•	Related To: Cost Function
+•	Q2:What is the idea behind the Gradient Descent?
+•	Q3:Explain the intuition behind Gradient Descent algorithm
+•	Related To: Linear Regression
+•	Q4:What is the difference between Maximum Likelihood Estimation and Gradient Descent?
+•	Q5:Can Gradient Descent be applied to Non-Convex Functions?
+•	Q6:What are some types of Gradient Descent do you know?
+•	Q7:Compare the Mini-batch Gradient Descent, Stochastic Gradient Descent, and Batch Gradient Descent
+•	Q8:Explain how does the Gradient descent work in Linear Regression
+•	Related To: Linear Regression
+•	Q9:Name some Evaluation Metrics for Regression Model and when you would use one?
+•	Related To: Linear Regression
+•	Q10:In which case you would use Gradient Descent method or Ordinary Least Squares and why?
+•	Related To: Linear Regression
+•	Q11:Compare Batch Gradient Descent and Stochastic Gradient Descent
+•	Related To: Optimisation
+•	Q12:How does the Adam method of Stochastic Gradient Descent work?
+•	Related To: Optimisation
+•	Q13:When Optimizing a Neural Network, how do you define the Termination Condition for Gradient Descent?
+•	Related To: Optimisation
+•	Q14:How does Batch Size affect the Convergence of SGD and why?
+•	Related To: Optimisation
+•	Q15:When should we use Algorithms like Adam as opposed to SGD?
+•	Related To: Optimisation
+•	Q16: What are some necessary Mathematical Properties a Loss Function needs to have in Gradient-Based Optimization?
+•	Related To: Cost Function
+•	Q17:How do Gradient-Based Algorithms deal with the flat regions with desired points?
+•	Q18:What is the difference between Gradient Descent and Stochastic Gradient Descent?
+•	Q19:Does Gradient Descent always converge to an optimum?
+•	Q20:How is the Adam Optimization Algorithm different when compared to Stochastic Gradient Descent?
+•	Q21:Name some advantages of using Gradient descent vs Ordinary Least Squares for Linear Regression
+•	Related To: Linear Regression
+•	Q22:What is the difference between Momentum based Gradient Descent and Nesterov's Accelerated Gradient Descent?
+•	Related To: Optimisation
+•	Q23:Explain in detail how Momentum-based Gradient Descent and Nesterov's Accelerated Gradient Descent work
+•	Related To: Optimisation
+•	Q24:In what situations would you prefer Coordinate Descent over Gradient Descent?
+•	Related To: Optimisation
+•	Q25:For both Convex, and Non-Convex Problems, does the Gradient in SGD always point to the global extreme value?
+•	Related To: Optimisation
+•	Q26:Explain Mathematically, how Stochastic Gradient Descent saves time compared to Standard Gradient Descent.
+•	Q27:What is the Mirror Descent?
+•	Related To: Optimisation
+•	Gradient Descent Practical Challenges
+•	Q1:How would you train Linear Regression model using Gradient Descent? Implement in Python
+•	PY Related To: Linear Regression, Python
+•	Julia Q&As
+•	Q1:What's the advantage of using struct vs mutable struct's composite objects?
+•	Entry 
+•	Q2:How to create an Anonymous Function in Julia?
+•	Entry 
+•	Q3:What does an exclamation mark (!) mean after the name of a function in Julia?
+•	Q4:What does the slat operator (...) do?
+•	Q5:What is the difference between == and === comparison operators in Julia?
+•	Q6:When would you use == vs === vs isequal?
+•	Q7:What's the difference between Array and Vector in Julia?
+•	Q8:What's the difference between => and -> operators in Julia?
+•	Q9:When would you use :: vs <: operators in types?
+•	Q10:How to combine two vectors into a matrix?
+•	Q11:What are the differences between Zero-dimensional arrays and Scalars in Julia?
+•	Q12:How to get access to a dataframe column?
+•	Q13:How to modify the given dataframe?
+•	Q14:What's the difference between Hard and Soft scope in Julia?
+•	Q15:What is the purpose of do-syntax?
+•	Q16:What does Type-Stable mean in Julia?
+•	Q17:What's the difference between Macro vs Functions?
+•	Q18:How do you ensure that the same concrete type is passed to a function in a parametric method?
+•	Q19:Can you create a class in Julia?
+•	Q20:What's the difference between missing, Nothing and NaN in Julia?
+•	Q21:What's the difference between Primitive types and Composite types?
+•	Q22:What does the :: operator do?
+•	Q23:Are there any troubles when using Global Variables in Julia?
+•	Q24:How do you implement Object-Oriented Model in Julia?
+•	Q25:What's the difference between semijoin and antijoin? 
+•	Q26:How are Positional Arguments different from Keyword Arguments in Julia functions?
+•	Q27:What are the pros and cons of defining functions with Untyped Arguments?
+•	Q28:What's the difference between Outer and Inner constructor methods in Julia?
+•	Q29:Why would you a Macro instead of a regular function?
+•	Q30:What is a symbol in Julia?
+•	Q31:What's the difference between push!() and append()!?
+•	Q32:What is the difference between ::Type{T} and ::T in a function definition?
+•	Q33:Why would you use the Ref() function?
+•	Q34:How do we implement Traits, and how are traits useful?
+•	Q35:Why are Abstract Types useful?
+•	Q36:What are Traits? How can you implement it in Julia?
+•	Julia Practical Challenges
+•	Q1:How to select elements from array in Julia Matching Predicate?
+•	Q2:How can I obtain the complement of list of indexes in Julia?
+•	Q3:How to remove rows from a DataFrame?
+•	Q4:How to concatenate arrays in Julia?
+•	Q5:How to select a random item from a weighted array in Julia?
+•	Q6:How to convert an array of array into a matrix in Julia?
+•	Q7:How to create a function in Julia that saves its own internal state?
+•	Q8:What is the meaning of ! in this code sample? What will be the output?
+•	Q9:What is ".==" in Julia? What will be the output of the code snippet?
+•	Q10:How to do One-Hot Encoding in Julia?
+•	Q11:Challenge: Compute the mean grade of each student
+•	Q12:Create a function to count all unique character frequency in a string
+•	Q13:How to check if elements from one vector are within another vector?
+•	Q14:How to obtain indices of an array that satisfy boolean condition?
+•	K-Means Clustering Q&As
+•	Q1:What are some applications of k-Means Clustering?
+•	Entry 
+•	Q2:What is the difference between KNN and K-means Clustering?
+•	Related To: Supervised Learning, Unsupervised Learning, Classification
+•	Q3:Explain what is k-Means Clustering?
+•	Q4:What is the Uniform Effect that k-Means Clustering tends to produce?
+•	Q5:What are some Stopping Criteria for k-Means Clustering?
+•	Q6:Explain the steps of k-Means Clustering Algorithm
+•	Related To: Cost Function
+•	Q7:Why does k-Means Clustering use mostly the Euclidean Distance metric?
+•	Q8:What is the main difference between k-Means and k-Nearest Neighbours?
+•	Related To: K-Nearest Neighbors
+•	Q9:How does K-Means perform Clustering?
+•	Related To: Unsupervised Learning
+•	Q10:While performing K-Means Clustering, how do you determine the value of K?
+•	Related To: Clustering
+•	Q11:Compare Hierarchical Clustering and k-Means Clustering
+•	Related To: Clustering
+•	Q12:What is a Mixture Model?
+•	Related To: Clustering
+•	Q13:How is Entropy used as a Clustering Validation Measure?
+•	Q14:What is the use of Fuzzy C-Means Clustering?
+•	Q15:How would you Pre-Process the data for k-Means?
+•	Q16:What is the difference between the Manhattan Distance and Euclidean Distance in Clustering?
+•	Related To: Clustering
+•	Q17:Explain some cases where k-Means clustering fails to give good results
+•	Related To: Anomaly Detection
+•	Q18:How would you perform k-Means on very large datasets?
+•	Q19:What is the difference between k-Means and k-Medians and when would you use one over another?
+•	Q20:What is the difference between traditional k-Means and the SAIL algorithm?
+•	Q21:How do you measure the Consistency between different k-Means Clustering outputs?
+•	Q22:What is the Objective Function of k-Means?
+•	Related To: Cost Function
+•	Q23:What is the difference between Classical k-Means and Spherical k-Means?
+•	Q24:What is the k-Means based Consensus Clustering?
+•	Q25:How to determine k using the Elbow Method?
+•	PY Related To: Python
+•	Q26:Can you find Outliers using k-Means?
+•	Related To: Anomaly Detection
+•	Q27:What makes the distance measurement of k-Medoids better than k-Means?
+•	Related To: Clustering
+•	Q28:When would you use Hierarchical Clustering over k-Means Clustering?
+•	Related To: Clustering
+•	Q29:How would you choose the number of Clusters when designing a K-Medoid Clustering Algorithm?
+•	Related To: Clustering
+•	Q30:How to tell if data is clustered enough for clustering algorithms to produce meaningful results?
+•	Related To: Clustering, Unsupervised Learning
+•	Q31:When would you use Fuzzy C-Means as opposed to k-Means?
+•	Q32:How does Forgy Initialization, Random Partition Initialization, and kmeans++ Initialization compare with each other?
+•	Q33:Why would you use Correlation-based Distances in k-Means Clustering?
+•	Q34:What are some properties of the Point-to-Centroid Distance?
+•	Q35:How do the clusters generated by k-Means and Mini Batch k-Means compare?
+•	Q36:How does the Curse of Dimensionality affect k-Means Clustering?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q37:How does Spherical k-Means work with high dimensional data such as text?
+•	Q38:How to determine k using the Silhouette Method?
+•	PY Related To: Python
+•	Q39:Explain the different frameworks used for k-Means Clustering
+•	Related To: Clustering
+•	Q40:What is the relationship between k-Means Clustering and PCA?
+•	Related To: Clustering, PCA
+•	K-Means Clustering Practical Challenges
+•	Q1:Implement K-Means Clustering Algorithm in plain Python
+•	PY Related To: Python
+•	K-Nearest Neighbors Q&As
+•	Q1:How do you choose the optimal k in k-NN?
+•	Related To: Classification
+•	Q2:What's the difference between k-Nearest Neighbors and Radius Nearest Neighbors?
+•	Q3:Would you use K-NN for large datasets?
+•	Related To: Data Processing
+•	Q4:What is k-Nearest Neighbors algorithm?
+•	Related To: Supervised Learning
+•	Q5:What is the main difference between k-Means and k-Nearest Neighbours?
+•	Related To: K-Means Clustering
+•	Q6:Compare K-Nearest Neighbors (KNN) and SVM
+•	Related To: SVM
+•	Q7:How can you relate the KNN Algorithm to the Bias-Variance tradeoff?
+•	Related To: Bias & Variance
+•	Q8:How do you select the value of K for k-Nearest Neighbors?
+•	Q9:What are some advantages and disadvantages of k-Nearest Neighbors?
+•	Q10:If you are using k-Nearest Neighbors, what type of Normalization should be used?
+•	Related To: Data Processing
+•	Q11:Does kNN suffer from the Curse of Dimensionality and if it why?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q12:Compare Decision Trees and k-Nearest Neighbors
+•	Related To: Decision Trees
+•	K-Nearest Neighbors Practical Challenges
+•	Q1:Implement k-Nearest-Neighbor Algorithm in plain Python
+•	PY Related To: Python
+•	Keras Q&As
+•	Q1:What is a callback in Keras and when is useful?
+•	Q2:What's the difference between units, input shape and output shape in a Keras Layer class?
+•	Q3:What does the Flatten layer do in Keras?
+•	Q4:What is the use of verbose in Keras while validating the model?
+•	Q5:What is the difference between Keras model.evaluate() and model.predict()?
+•	Q6:What do compile, fit, and predict do in Keras sequential models?
+•	Q7:How is defined the Input Layer in Keras?
+•	Q8:How can I interrupt training when the validation loss isn't decreasing anymore?
+•	Q9:How to get layer shapes in a Sequential model?
+•	Q10:What is the difference between model.fit() and model.evaluate() in Keras?
+•	Q11:Name the different ways to build a model with Keras that you know 
+•	Q12:What is the difference between predict and predict_on_batch methods of a Keras model?
+•	Q13:In the EarlyStopping callback, when would you use mode='min' vs mode='max'?
+•	Q14:What are kernel_initializers in Keras and what is their significance?
+•	Q15:What is Transfer learning and how can you implement it in Keras?
+•	Related To: Deep Learning
+•	Q16:In Keras, what's the difference between kernel, bias, and activity regularizers, and when to use which?
+•	Q17:What's the difference between concatenate and add layers in Keras and when would you use each one? 
+•	Related To: Deep Learning
+•	Q18:How can you use a preprocessing layer in a TensorFlow/Keras model?
+•	Related To: TensorFlow
+•	Q19:Where would you put a BatchNormalization function in a Keras model?
+•	Q20:What is the difference between sparse_categorical_crossentropy and categorical_crossentropy? 
+•	Q21:What is the use of train_on_batch() in Keras?
+•	Q22:What is the difference between an Embedding Layer and a Dense Layer in Keras?
+•	Q23:How to set Class Weights for imbalanced classes in Keras?
+•	Q24:How to use LeakyRelu as activation function in sequence DNN in Keras?
+•	Q25:What is the advantage of using Functional vs Sequential models in Keras?
+•	Q26:How can you obtain the output of an Intermediate Layer (feature extraction)?
+•	Q27:When would you use a Data Generator in Keras?
+•	Q28:What's the difference between trainable_weights and non_trainable_weights in Keras?
+•	Q29:Why would you use initial_epoch in a Keras Model?
+•	Q30:How to make two parallel convolutional neural networks in Keras?
+•	Q31:What's the difference between LSTM() and LSTMCell() in Keras?
+•	Q32:What is the purpose of Untrainable Weights in Keras?
+•	Q33:Add dropout layers between pretrained dense layers in Keras
+•	Q34:What's the difference between weight regularization and weight constraints layers?
+•	Q35:How to create custom metrics with Keras?
+•	Q36:When would you need to create a dynamic Keras model?
+•	Related To: Deep Learning
+•	Q37:What is the purpose of the add_loss function in Keras?
+•	Q38:What does a layer SpatialDropout2D() do and why would you use it?
+•	Q39:How to change the metric used by the EarlyStopping callback in Keras?
+•	Q40:What is the difference between kernel_regularizer, bias_regularizer and activity_regularizer, and when to use which?
+•	Q41:How can you use stateful RNNs in Keras?
+•	Q42:What does it means stateful = False and stateful = True in a LSTM layer?
+•	Q43:How do you create a custom activation function in Keras?
+•	Q44:What's the difference between Model methods __call__() vs. predict()?
+•	Q45:What's the difference between return_sequences and return_states in a LSTM layer in Keras?
+•	Q46:Why would you use a TimeDistributed layer after an LSTM layer?
+•	Q47:What is a Cell Class in Keras?
+•	Q48:How is data processed by an LSTM layer in Keras?
+•	Q49:What does from_logits=True do in SparseCategoricalcrossEntropy loss function?
+•	Q50:How to train a network only on one output when there are multiple outputs in Keras?
+•	Related To: Python
+•	Q51:How to stack multiple LSTMs with Keras?
+•	Q52:How does Keras Embedding layer work?
+•	Q53:What's the difference between batch, timesteps, features in LSTM layer input?
+•	Keras Practical Challenges
+•	Q1: Using Keras, construct a simple autoencoder architecture using Dense layers and a Sequential model for 784-dimensional data
+•	Related To: Deep Learning, Neural Networks
+•	Q2: How would you freeze all the layers in the Keras model
+•	Q3: Using Keras, how can you visualize the filters of some layer of a CNN? 
+•	Related To: Neural Networks
+•	Q4: Create code snippets that represent the different LSTM architectures using Keras
+•	Q5: How would you merge two different models in Keras
+•	Q6: Construct a Model which takes two inputs and produces a single output
+•	Q7: What does the Lambda layer do in Keras? What would be the output of this model?
+•	Related To: Python
+•	Q8: How to get the neural network weights for every epoch using Keras callbacks?
+•	Q9: How to concatenate two layers in Keras?
+•	Linear Algebra Q&As
+•	Q1: How do you find eigenvalues of a matrix? Could you provide an example?
+•	Q2: How do you know if a system of two linear equations has one solution, multiple solutions or no solutions?
+•	Q3: What's the difference between Cross Product and Dot Product?
+•	Q4: What is Ax = bAx=b? When does Ax = bAx=b has a unique solution?
+•	Q5: What is Frobenius norm?
+•	Q6: At what conditions does the inverse of a diagonal matrix exist?
+•	Q7: What's the normal vector to the surface S provide below?
+•	Q8: Why is Centering and Scaling the data important before performing PCA?
+•	Related To: PCA, Dimensionality Reduction
+•	Q9: What are the conditions that a norm function has to satisfy?
+•	Q10:How many ways of measure a vector do you know?
+•	Q11:Can the number of nonzero elements in a vector be defined as norm? If no, why?
+•	Q12:How do you diagonalize a matrix?
+•	Q13:Diagonalize, if it's possible, the following matrix
+•	Q14:What’s the difference between a Matrix and a Tensor?
+•	Q15:Is the Eigendecomposition guaranteed to be unique for a real matrix? If not, then how do we represent it?
+•	Q16:What happens if we transform a vector z using a positive definite matrix?
+•	Q17:What is broadcasting in connection to Linear Algebra?
+•	Related To: NumPy
+•	Q18: What is Hadamard product of two matrices?
+•	Q19: Discuss span and linear dependence
+•	Q20: What is the determinant of a square matrix? How is it calculated? 
+•	Q21: What is an Orthogonal Matrix? Why is computationally preferred?
+•	Q22: What are positive definite, negative definite, positive semi definite and negative semi definite matrices?
+•	Q23: At what conditions does the inverse of a matrix exist?
+•	Q24: How to assign values to a MATLAB matrix on the diagonal with vectorization?
+•	Related To: MATLAB
+•	Q25: Given a matrix M, how do you calculate its Singular Value Decomposition?
+•	Q26: Why would you use the Moore-Penrose Pseudoinverse and how would you calculate it?
+•	Q27: What are Singular Eigenvalues, Left Singulars and Right Singulars?
+•	Q28: When performing regularization, when would you choose L1-norm over L2-norm?
+•	Q29: Why do we use Singular Value Decomposition? Why not just use Eigendecomposition?
+•	Linear Algebra Practical Challenges
+•	Q1:   For which value of q the following set of linear equations can have a non-trivial solution?
+•	Q2:   Prove that the following matrices are inverses
+•	Q3:   When are two vectors x and y orthogonal?
+•	Q4:   Find the values of k that make the following matrices positive deﬁnite
+•	Q5:   Determine which of the following matrices is normal
+•	Q6:   Diagonalize the following matrix 
+•	Q7:   How do you find the inverse of a 2x2 matrix?
+•	Q8:   Compute the cofactors of the following matrix
+•	Q9:   Find the inverse of the following matrix
+•	Q10:  Solve the following system using determinants or the Cramer's rule
+•	Q11:  Compute the adjugate of the following matrix
+•	Q12:  Find the value of k such that the vectors u and v are orthogonal
+•	Q13:  How would you find the inverse of an nxn matrix?
+•	Linear Regression Q&As
+•	Q1:     What is Linear Regression?
+•	Related To: Supervised Learning
+•	Entry 
+•	Q2:   What are types of Linear Regression?
+•	Q3:   How can you check if the Regression model fits the data well? 
+•	Q4:   What is the difference between Mean Absolute Error (MAE) vs Mean Squared Error (MSE)?
+•	Q5:   How would you detect Overfitting in Linear Models?
+•	Related To: Model Evaluation
+•	Q6:   What's the difference between Covariance and Correlation?
+•	Related To: Data Processing
+•	Q7:   Provide an intuitive explanation of the Learning Rate?
+•	Q8:   How is the Error calculated in a Linear Regression model?
+•	Q9:   Explain the intuition behind Gradient Descent algorithm
+•	Related To: Gradient Descent
+•	Q10:  Define Linear Regression and its structure
+•	Related To: Supervised Learning
+•	Q11:  How does a Non-Linear regression analysis differ from Linear regression analysis?
+•	Q12:  Explain what the Intercept Term means
+•	Q13:   Name a disadvantage of R-squared and explain how would you address it?
+•	Q14:   What is the difference between Ordinary Least Squares and Ridge Regression?
+•	Q15:   What is the difference between Ordinary Least Squares and Lasso regression?
+•	Q16:   Why use Root Mean Squared Error (RMSE) instead of Mean Absolute Error (MAE)?
+•	Q17:   How would you decide on the importance of variables for the Multivariate Regression model? 
+•	Related To: Feature Engineering
+•	Q18:   What are the assumptions before applying the OLS estimator?
+•	Related To: Data Processing
+•	Q19:   Explain how does the Gradient descent work in Linear Regression
+•	Related To: Gradient Descent
+•	Q20:   Name some Evaluation Metrics for Regression Model and when you would use one?
+•	Related To: Gradient Descent
+•	Q21:   What is the difference between a Regression Model and an ANOVA Model?
+•	Q22:   How does it work the Backward Selection Technique?
+•	Q23:   What are the Assumptions of Linear Regression?
+•	Q24:   In which case you would use Gradient Descent method or Ordinary Least Squares and why?
+•	Related To: Gradient Descent
+•	Q25:   How is Hypothesis Testing using in Linear Regression?
+•	Q26:   What is the difference between Linear Regression and Logistic Regression?
+•	Related To: Logistic Regression
+•	Q27:   Why would you use Normalisation vs Standardisation for Linear Regression?
+•	Q28:   Why can't a Linear Regression be used instead of Logistic Regression?
+•	Related To: Logistic Regression
+•	Q29:   How would you fix Logistic Regression Overfitting problem?
+•	Related To: Model Evaluation, Cost Function
+•	Q30:   Compare Linear Regression and Decision Trees
+•	Related To: Decision Trees
+•	Q31:   What are some challenges faced when using a Supervised Regression Model?
+•	Related To: Supervised Learning
+•	Q32:   What's the difference between Homoskedasticity and Heteroskedasticity?
+•	Related To: Statistics
+•	Q33:   How do you cope with Missing data in Regression?
+•	Related To: Data Processing
+•	Q34:   How would you detect Collinearity and what is Multicollinearity?
+•	Q35:   Explain the Stepwise Regression technique
+•	Related To: Feature Engineering
+•	Q36:   How would you deal with Overfitting in Linear Regression models?
+•	Related To: Model Evaluation
+•	Q37:   Explain what is an Unrepresentative Dataset and how would you diagnose it?
+•	Related To: Data Processing
+•	Q38:   How would you detect Heteroskedasticity?
+•	Related To: Data Processing
+•	Q39:   How would you address the problem of Heteroskedasticity caused for a Measurement error?
+•	Related To: Data Processing
+•	Q40:   How would you compare models using the Akaike Information Criterion?
+•	Q41:   Name some advantages of using Gradient descent vs Ordinary Least Squares for Linear Regression
+•	Related To: Gradient Descent
+•	Q42:   How would you deal with Outliers in your dataset?
+•	Related To: Anomaly Detection, Data Processing
+•	Q43:   How would you check if a Linear Model follows all Regression assumptions?
+•	Q44:   How would you implement Linear Regression Function in SQL?
+•	Related To: SQL
+•	Q45:   Provide an intuitive explanation of RANSAC Regression algorithm
+•	Q46:   What types of Robust Regression Algorithms do you know?
+•	Related To: Anomaly Detection
+•	Linear Regression Practical Challenges
+•	Q1:   How would you train Linear Regression model using Normal Equation? Implement in Python
+•	PY Related To: Python
+•	Q2:   How would you train Linear Regression model using Gradient Descent? Implement in Python
+•	PY Related To: Gradient Descent, Python
+•	Logistic Regression Q&As
+•	Q1:   When Logistic Regression can be used?
+•	Q2:   Why is Logistic Regression called Regression and not Classification?
+•	Q3:   What is a Decision Boundary?
+•	Related To: Classification
+•	Q4:   How would you make a prediction using a Logistic Regression model?
+•	Related To: Classification
+•	Q5:   What is the difference between Linear Regression and Logistic Regression?
+•	Related To: Linear Regression
+•	Q6:   Provide a mathematical intuition for Logistic Regression?
+•	Q7:   Why is Logistic Regression considered a Linear Model?
+•	Q8:   Why can't a Linear Regression be used instead of Logistic Regression?
+•	Related To: Linear Regression
+•	Q9:   Compare SVM and Logistic Regression in handling outliers
+•	Related To: SVM, Anomaly Detection
+•	Q10:   What can you infer from each of the hand drawn decision boundary of Logistic Regression below?
+•	Q11:   Why don’t we use Mean Squared Error as a cost function in Logistic Regression?
+•	Related To: Cost Function
+•	Q12:   How a Logistic Regression model is trained?
+•	Q13:   What's the difference between Softmax and Sigmoid functions?
+•	Related To: Classification
+•	Q14:   How do you use a supervised Logistic Regression for Classification?
+•	Related To: Supervised Learning, Classification
+•	Q15:   In Logistic Regression, why is the Binary Cross-Entropy loss function convex?
+•	Q16:   Explain the Vectorized Implementation of Logistic Regression?
+•	Q17:   Explain the Space Complexity Analysis of Logistic Regression 
+•	Q18:   How can we avoid Over-fitting in Logistic Regression models?
+•	Q19:   Imagine that you know there are outliers in your data, would you use Logistic Regression?
+•	Related To: Anomaly Detection, Decision Trees, Random Forests
+•	Q20:   Name some advantages of using Support Vector Machines vs Logistic Regression for classification
+•	Related To: SVM, Classification
+•	Q21:   When would you use SVM vs Logistic regression?
+•	Related To: SVM, Classification
+•	Q22:   Compare Naive Bayes vs with Logistic Regression to solve classification problems
+•	Related To: Naïve Bayes, Classification
+•	Q23:   Compare Decision Trees and Logistic Regression
+•	Related To: Decision Trees
+•	Q24:   Can Logistic Regression be used for an Imbalanced Classification problem?
+•	Related To: Classification
+•	Logistic Regression Practical Challenges
+•	Q1:   How would you train Logistic Regression? Implement in Python
+•	PY Related To: Python
+•	MATLAB Q&As
+•	Q1:   How to stop a MATLAB script if certain conditions are met?
+•	Entry 
+•	Q2:   What is the difference between Cell and Matrix in MATLAB?
+•	Entry 
+•	Q3:   What is the difference between * and .* in MATLAB?
+•	Entry 
+•	Q4:   What's the difference between who and whos in MATLAB?
+•	Q5:   How to get the type of a variable in MATLAB?
+•	Q6:   How to convert a 1x1 cell to a character vector or string?
+•	Q7:   How can you remove NaN values from an array?
+•	Q8:   How can you count the occurrences of each element in a vector in MATLAB?
+•	Q9:   How to iterate through each element in an n-dimensional matrix in MATLAB?
+•	Q10:  What is the difference between accessing elements in a cell array using parentheses () and curly braces {}?
+•	Q11:  What is the difference between the & and && logical operators in MATLAB?
+•	Q12:  What types of MATLAB functions do you know?
+•	Q13:  When is it appropriate to use a Cell array vs. a Struct in Matlab?
+•	Q14:  Is there a foreach in MATLAB? If so, how does it behave if the underlying data changes?
+•	Q15:  When would you use a function handle in MATLAB?
+•	Q16:  How to declare a function in MATLAB with optional arguments?
+•	Q17:  How can you check if a field exists in a nested structure?
+•	Q18:  Name some advantages of using Categorical arrays vs Character arrays
+•	Q19:  When would you use a Regular array vs a Cell array?
+•	Q20:   What's the difference between linspace vs the colon : operator for creating vectors in MATLAB?
+•	Q21:   How to iterate through struct field names in MATLAB?
+•	Q22:   How to assign values to a MATLAB matrix on the diagonal with vectorization?
+•	Related To: Linear Algebra
+•	Q23:   How to define constants properties in a Class?
+•	Q24:   How can you break a loop iteration, if it takes a long time?
+•	Q25:   How many types of breakpoints in MATLAB do you know?
+•	Q26:   How to iterate over the keys and elements of a containers.Map?
+•	Q27:   How to create an InputParser in MATLAB?
+•	Q28:   Are there any problems when using eval function in MATLAB?
+•	Q29:   How to wrap a function using varargin and varargout?
+•	Q30:   When would you define Constructors in MATLAB?
+•	Q31:   What are some requirements to create nested functions in MATLAB?
+•	Q32:   What are some Best Practices to improve programming in MATLAB?
+•	Q33:   How to set default values for functions parameters in MATLAB?
+•	Q34:   When to use Value classes vs Handle classes?
+•	Q35:   What types of properties in MATLAB do you know?
+•	Q36:   What is to overload a function and how to do it in MATLAB?
+•	Q37:   How to elegantly ignore some return values of a MATLAB function?
+•	Q38:   How to pre-allocate memory when using Numeric Arrays?
+•	Q39:   How can you measure the performance of a code in MATLAB?
+•	Q40:   How to store a large number of matrixes in an array in MATLAB?
+•	Q41:   What are some best practices for creating Constructors in Matlab?
+•	MATLAB Practical Challenges
+•	Q1:   How to find the indices of the maximum (or minimum) value of a matrix?
+•	Q2:   Find elements from A in B and get the index of the found element in B
+•	Q3:   How to divide each row of a matrix by a fixed row in MATLAB?
+•	Q4:   Select only a specific number of rows fulfilling a condition in MATLAB
+•	Q5:   Find closest values before and after from data for b point
+•	Q6:   How to apply a custom function to each element of a matrix or a cell array in MATLAB?
+•	Q7:   How would you access the structure fields dynamically in MATLAB?
+•	Q8:   Find the closest distance in array using MATLAB
+•	Q9:   How to combine efficiently two structures in MATLAB?
+•	Q10:  How to generate the following matrix in MATLAB?
+•	Q11:  Find the most common values in matrix using MATLAB
+•	Q12:   Collect a new variable each time a function runs and save it into an array. Implement using MATLAB.
+•	Q13:   Randomly select k points from N points in MATLAB
+•	Q14:   Generate a matrix containing all combinations of elements taken from n vectors using MATLAB
+•	Q15:   Compare all elements in arrays using MATLAB
+•	Q16:   Create a function that normalizes a given array of integer in the given range
+•	Q17:   What will the output of the code below?
+•	Q18:   How would you execute multiple statements in a MATLAB anonymous function?
+•	ML Design Patterns Q&As
+•	Q1:   When would you use the Hashed Feature Design Pattern?
+•	Q2:   What Data Representation techniques do you know?
+•	Q3:   What's the difference between Multiclass Classification models and Multi Label model?
+•	Related To: Classification
+•	Q4:   Name some approaches that you can take to implement the Ensemble Design Pattern
+•	Q5:   Name some methods you know for Rebalancing a dataset using Rebalancing Design Pattern 
+•	Related To: Data Processing
+•	Q6:   What methods of Hyperparameters Tuning do you know?
+•	Related To: Optimisation, Model Evaluation, Dimensionality Reduction
+•	Q7:   When would you use Grid Search vs Random Search for Hyperparameter Tuning?
+•	Related To: Optimisation, Dimensionality Reduction
+•	Q8:   What are some recommended choices for Imputation Values?
+•	Related To: Data Processing, Feature Engineering
+•	Q9:   What are the benefits of using the Workflow Pipeline Design Pattern?
+•	Q10:  How does Feature Cross Design Pattern work in Machine Learning?
+•	Q11:  What are some trade-offs when using Embeddings in Machine Learning?
+•	Related To: Curse of Dimensionality
+•	Q12:  What's the main idea of Reframing Design Pattern for a ML problem?
+•	Q13:  For what problems would you use the Neutral Class Design Pattern in Machine Learning?
+•	Q14:   When and why would you use Checkpoints for a ML pipeline?
+•	Q15:   What ML problems are solved by the Transformation Design Pattern?
+•	Q16:   Are there any problems with splitting data randomly into Training, Validation, and Test datasets? 
+•	Related To: Data Processing
+•	Q17:   What does the Bridged Schema Design Pattern do? 
+•	Q18:   When would you use Windowed Inference Design Pattern?
+•	Q19:   What ML Design Patterns can you use to ensure Reproducibility of Machine Learning jobs?
+•	Q20:   What's the difference between the Transform and Feature Store Design Patterns in Machine Learning?
+•	Q21:   Are there any troubles when using Feature Cross? How can you solve it?
+•	Q22:   Explain how would you build a Multi-Label model using Multi-Label Design Pattern?
+•	Q23:   When Overfitting can be useful?
+•	Related To: Model Evaluation
+•	Q24:   When would you need to implement Transfer Learning Design Pattern?
+•	Q25:   Why would you need to use the Continued Model Evaluation Design Pattern?
+•	Related To: Model Evaluation
+•	Q26:   What are the two-phases in the Two-Phase Predictions Design Pattern?
+•	Q27:   When would you need to use the Two-Phases predictions Design Pattern?
+•	Q28:   When would you use Sequential Split of data? 
+•	Related To: Data Processing, Time Series
+•	Q29:   Are there any troubles when using Early Stopping?
+•	Related To: Data Processing, Model Evaluation, Neural Networks
+•	Q30:   When would you use Fine-Tuning vs Feature Extraction in Transfer Learning?
+•	Related To: Data Processing, Feature Engineering
+•	MLOps Q&As
+•	Q1:   How many ways do you know to implement MLOps?
+•	Q2:   What's the difference between Static Deployment and Dynamic Deployment?
+•	Q3:   What production Testing methods do you know?
+•	Q4:   What's the difference between Batch Processing and Stream Processing?
+•	Q5:   What is Training-Serving Skew?
+•	Q6:   What is a Model Registry and what are its benefits?
+•	Q7:   How does the Champion-Challenger technique work?
+•	Q8:   What are the steps in a basic ML Pipeline?
+•	Q9:   Why you should package ML models?
+•	Q10:  How many ways of ML models packaging do you know?
+•	Q11:   What are the benefits of CI/CD for Machine Learning systems?
+•	Q12:   What is a structure of a typical ML Artifact?
+•	Q13:   What Feature Attribution methods do you know?
+•	Q14:   What's the difference between Continuous Integration, Continuous Delivery and Continuous Deployment?
+•	Q15:   What kind of test can you perform in the MLOps cycle?
+•	Q16:   What are some good practices when performing testing in the MLOps cycle?
+•	Q17:   What approaches can you take for testing the ML model during the training process?
+•	Q18:   Why would you need a Model Store for your MLOps projects?
+•	Q19:   What are some good practices for monitoring training in production?
+•	Q20:   What are the pros and the cons of using Rolling Deployment?
+•	Q21:   What are the benefits of using Blue-Green deployments?
+•	Q22:   Why would you use feature flags?
+•	Q23:   What are the pros and cons of using Microservices?
+•	Q24:   Why would you monitor Feature Attribution instead of Feature Distribution?
+•	Q25:   What types of Model Drift problems can you faced and how can you overcome it?
+•	Q26:   What are the differences between Canary and Blue-Green strategies deployments?
+•	Q27:   Why would you need to use a Feature Store service?
+•	Q28:   How does the ML Test Score work?
+•	Q29:   When would you use Statistical Methods vs Statistical Process Control for Data Drift detection?
+•	Q30:   What's the difference between A/B testing model deployment strategy and Multi-Arm Bandit?
+•	Model Evaluation Q&As
+•	Q1:   What is Overfitting in Machine Learning?
+•	Related To: Machine Learning
+•	Q2:   What is Underfitting in Machine Learning?
+•	Related To: Machine Learning
+•	Q3:   What is Hyper-Parameters in ML Model?
+•	Related To: Machine Learning
+•	Q4:   How would you detect Overfitting in Linear Models?
+•	Related To: Linear Regression
+•	Q5:   What is a model Learning Rate? Is a high learning rate always good?
+•	Related To: Machine Learning
+•	Q6:   How to know whether your model is suffering from the problem of Exploding Gradients?
+•	Related To: Deep Learning, Neural Networks
+•	Q7:   What methods of Hyperparameters Tuning do you know?
+•	Related To: Optimisation, ML Design Patterns, Dimensionality Reduction
+•	Q8:   How would you prevent Overfitting when designing an Artificial Neural Network?
+•	Related To: Neural Networks
+•	Q9:   How would you fix Logistic Regression Overfitting problem?
+•	Related To: Linear Regression, Cost Function
+•	Q10:   What are the difference between Type I and Type II errors?
+•	Related To: Machine Learning, Data Processing
+•	Q11:   What is a Confusion Matrix?
+•	Related To: Supervised Learning, Classification
+•	Q12:   What performance parameters can be calculated using Confusion Matrix?
+•	Q13:   How does ROC curve and AUC value help measure how good a model is?
+•	Related To: Classification
+•	Q14:   What are some advantages and disadvantages of using AUC to measure the performance of the model?
+•	Related To: Classification
+•	Q15:   What is the F-Score?
+•	Related To: Statistics, Classification
+•	Q16:   How do you reduce the risk of making a Type I and Type II error?
+•	Related To: Statistics
+•	Q17:   How would you deal with Overfitting in Linear Regression models?
+•	Related To: Linear Regression
+•	Q18:   How is AUC - ROC curve used in classification problems? 
+•	Related To: Classification
+•	Q19:   How would you use a Confusion Matrix for determining a model performance?
+•	Related To: Data Processing, Classification
+•	Q20:   How would you choose an evaluation metric for an Imbalanced classification?
+•	Related To: Classification
+•	Q21:   If one algorithm has Higher Precision but Lower Recall than other, how can you tell which algorithm is better?
+•	Q22:   What is AIC?
+•	Related To: Classification
+•	Q23:   What is BIC?
+•	Q24:   Compare AIC and BIC methods for model selection 
+•	Q25:   What is MDL?
+•	Q26:   What are Concordance and Discordance?
+•	Q27:   What are some approaches to get a quantitative estimate of a model's Maximum Predictive Power given a certain level of noise?
+•	Related To: Data Processing
+•	Q28:   When Overfitting can be useful?
+•	Related To: ML Design Patterns
+•	Q29:   Why would you need to use the Continued Model Evaluation Design Pattern?
+•	Related To: ML Design Patterns
+•	Q30:   What's the difference between ROC and Precision-Recall Curves?
+•	Related To: Classification
+•	Q31:   How to interpret F-measure values?
+•	Related To: Classification
+•	Q32:   Are there any troubles when using Early Stopping?
+•	Related To: ML Design Patterns, Data Processing, Neural Networks
+•	NLP Q&As
+•	Q1:   Why is text preprocessing done in NLP?
+•	Entry 
+•	Q2:   What is the difference between Lemmatisation and Stemming?
+•	Q3:   When would you use Stemming over Lemmatisation, and vice-versa?
+•	Q4:   What is the use of PoS (Part of Speech) tagging?
+•	Q5:   What are some of the advantages of using the Bag-of-Words to extract features?
+•	Q6:   What are some of the advantages of using the Bag-of-Words to extract features?
+•	Q7:   What are the differences between TF-IDF and TF?
+•	Q8:   What is a One-Hot Vector? How can they be used in Natural Language Processing?
+•	Q9:   What are the different types of text Preprocessing?
+•	Q10:  What is Named Entity Recognition (NER)?
+•	Q11:  What are some advantages of using TF-IDF over TF?
+•	Q12:  What are some disadvantages of using a One-Hot Vector for Natural Language Processing?
+•	Q13:  What loss function would you use for Sentiment Analysis?
+•	Q14:  Name some types of Text Summarisation
+•	Q15:  How has Translation of words improved from the Traditional methods?
+•	Related To: Feature Engineering, Neural Networks
+•	Q16:  What are the uses of using RNN in NLP?
+•	Related To: RNN, Neural Networks
+•	Q17:  What are the uses of LSTM in NLP?
+•	Related To: Neural Networks
+•	Q18:  How is Convolutional Neural Networks (CNN) used in NLP?
+•	Related To: CNN, Neural Networks
+•	Q19:  What is BLEU?
+•	Related To: Neural Networks
+•	Q20:  What is ROUGE?
+•	Related To: Neural Networks
+•	Q21:  What is Syntactic Analysis?
+•	Q22:  What are some ambiguities faced in NLP?
+•	Q23:  What is Latent Semantic Analysis?
+•	Q24:  What is BLEU?
+•	Q25:  Explain what is ROUGE?
+•	Q26:   Why would you use Encoder-Decoder RNNs vs plain sequence-to-sequence RNNs for automatic translation?
+•	Related To: RNN, Neural Networks
+•	Q27:   What's the difference between Stateful RNN vs Stateless RNN? What are their pros and cons?
+•	Related To: RNN, Neural Networks
+•	Q28:   What is intuition behind using CNN for NLP?
+•	Related To: CNN, Neural Networks
+•	Q29:   How would you create a Neural Captioning Model?
+•	Related To: Neural Networks
+•	Q30:   Explain the concept behind the Neural Machine Translator
+•	Related To: Neural Networks
+•	Q31:   What is an Embedding in NLP?
+•	Related To: Neural Networks
+•	Q32:   What is Semantic Analysis?
+•	Q33:   What are some of the differences between NLP and CUI (Conversational User Interface)?
+•	Q34:   What causes the accuracy of Sentiment Analysis to be low?
+•	Naïve Bayes Q&As
+•	Q1:   What is a Naïve Bayes Classifier?
+•	Entry 
+•	Q2:   Why Naive Bayes is called Naive?
+•	Related To: Supervised Learning, Classification
+•	Q3:   What are the basic components of a Content-Based System?
+•	Related To: Recommendation Systems
+•	Q4:   What Bayes' Theorem (Bayes Rule) is all about?
+•	Q5:   Find a probability of dangerous Fire when there is Smoke
+•	Relaed To: Probability
+•	Q6:   Can you choose a classifier based on the size of the training set?
+•	Related To: Classification
+•	Q7:   How would you use Naive Bayes classifier for categorical features? What if some features are numerical?
+•	Related To: Classification
+•	Q8:   What's the difference between Generative Classifiers and Discriminative Classifiers? Name some examples of each one
+•	Related To: Classification
+•	Q9:   How does the Naive Bayes classifier work?
+•	Related To: Classification
+•	Q10:  What are some advantages of using Naive Bayes Algorithm?
+•	Q11:   What are some disadvantages of using Naive Bayes Algorithm?
+•	Q12:   How would you test hypotheses using Bayes' Rule?
+•	Related To: Probability
+•	Q13:   What's the difference between the likelihood and the posterior probability in Bayesian statistics?
+•	Related To: Probability
+•	Q14:   How do you use Naive Bayes model for Collaborative Filtering?
+•	Related To: Recommendation Systems
+•	Q15:   What is Bayesian Network?
+•	Q16:   Are there any problems using Naive Bayes for Classification?
+•	Related To: Classification
+•	Q17:   What are the trade-offs between the different types of Classification Algorithms? How would do you choose the best one?
+•	Related To: Ensemble Learning, Classification
+•	Q18:   Compare Naive Bayes vs with Logistic Regression to solve classification problems
+•	Related To: Logistic Regression, Classification
+•	Q19:   Does Noisy Data benefit Bayesian?
+•	Related To: Data Mining
+•	Naïve Bayes Practical Challenges
+•	Q1:   Given two fair dices, what is the probability that two dices sum to 8?
+•	Related To: Probability
+•	Neural Networks Q&As
+•	Q1:   How are Neural Networks modelled?
+•	Entry 
+•	Q2:   What is a Perceptron?
+•	Related To: Supervised Learning, Classification
+•	Entry 
+•	Q3:   How many neurons do you need in the output layer if you want to classify email into spam or ham? 
+•	Entry 
+•	Q4:   What are Neural Networks?
+•	Q5:   How do Neural Networks get the optimal Weights and Bias values?
+•	Q6:   What are Loss Functions in Neural Networks?
+•	Q7:   What is an Activation Function?
+•	Q8:   What are the roles of an Activation Function?
+•	Q9:   What is the difference between Forward Propagation and Backward Propagation?
+•	Q10:   Name some applications of Neural Networks?
+•	Q11:   How can Neural Networks be Unsupervised?
+•	Related To: Unsupervised Learning, Autoencoders
+•	Q12:   What is the difference between Deep Learning and Artificial Neural Networks?
+•	Related To: Deep Learning
+•	Q13:   What are Self-Organizing Maps?
+•	Related To: Clustering
+•	Q14:   How are CNNs used for Time Series Prediction?
+•	Related To: CNN, Time Series
+•	Q15:   Can you list all the hyperparameters you can tweak in a basic Multi Layer Perceptron?
+•	Q16:   What's the difference between Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) and in which cases would use each one?
+•	Related To: RNN, CNN
+•	Q17:   What is Backpropagation and how does it work?
+•	Q18:   How to know whether your model is suffering from the problem of Vanishing Gradients?
+•	Related To: Deep Learning
+•	Q19:   How to know whether your model is suffering from the problem of Exploding Gradients?
+•	Related To: Deep Learning, Model Evaluation
+•	Q20:   What are some advantages of using Multilayer Perceptron over a Single-layer Perceptron?
+•	Q21:   What is the Vanishing Gradient Problem in Artificial Neural Networks?
+•	Q22:   What is the Exploding Gradient Problem in artificial Neural Networks?
+•	Q23:   Why does an artificial Neural Network use Backpropagation?
+•	Q24:   Explain why the Initialization process of weights and bias is important for NN?
+•	Q25:   Why should you Normalize the input for Neural Networks?
+•	Q26:   How would you tune the Network Structure (Model Design) Hyperparameters to get the highest accuracy in an Artificial Neural Network?
+•	Q27:   How would you tune the Training Algorithm Hyperparameters to get the highest accuracy in a Neural Network?
+•	Q28:   How would you prevent Overfitting when designing an Artificial Neural Network?
+•	Related To: Model Evaluation
+•	Q29:   What type of Neural Networks do Deep Reinforcement Learning use?
+•	Related To: Reinforcement Learning
+•	Q30:   How is One-Shot Learning still not attainable for Artificial Neural Networks?
+•	Q31:   What are some criticisms of Neural Networks?
+•	Q32:   How has Translation of words improved from the Traditional methods?
+•	Related To: NLP, Feature Engineering
+•	Q33:   What are the uses of using RNN in NLP?
+•	Related To: NLP, RNN
+•	Q34:   What are the uses of LSTM in NLP?
+•	Related To: NLP
+•	Q35:   How is Convolutional Neural Networks (CNN) used in NLP?
+•	Related To: NLP, CNN
+•	Q36:   What is BLEU?
+•	Related To: NLP
+•	Q37:   What is ROUGE?
+•	Related To: NLP
+•	Q38:   What are some similarities between SVMs and Neural Networks?
+•	Related To: SVM
+•	Q39:   What are some differences between SVMs and Neural Networks?
+•	Related To: SVM
+•	Q40:   How can Neural Networks be used to create Autoencoders?
+•	Related To: Autoencoders
+•	Q41:   Explain the working of a Perceptron
+•	Related To: Deep Learning
+•	Q42:   What is Early Stopping in Deep Learning?
+•	Related To: Deep Learning
+•	Q43:   What happens when you trade the Breadth of a Neural Network for the Depth?
+•	Related To: Deep Learning
+•	Q44:   What does the hidden layer in a Neural Network compute?
+•	Related To: Deep Learning
+•	Q45:   What does 1x1 convolution mean in a Neural Network?
+•	Related To: Deep Learning
+•	Q46:   What’s Transfer Learning? How it’s useful?
+•	Q47:   How to choose the features for a Neural Network?
+•	Related To: Data Processing, Feature Engineering
+•	Q48:   How do you choose the Scaling method used for Neural Networks?
+•	Related To: Data Processing
+•	Q49:   When you are Optimizing a Neural Network, does it make sense to combine both Momentum and Weight Decay to improve the performance?
+•	Related To: Optimisation
+•	Q50:   Should an Input Layer include a Bias Neuron?
+•	Q51:   How many dimensions must the inputs of an RNN layer have? What does each dimension represent? What about its outputs?
+•	Related To: RNN
+•	Q52:   What's the difference between Traditional Feedforward Networks and Recurrent Neural Networks?
+•	Related To: RNN
+•	Q53:   What are the main difficulties when training RNNs? How can you handle them?
+•	Related To: RNN
+•	Q54:   What types of Recurrent Neural Networks (RNN) do you know?
+•	Related To: RNN
+•	Q55:   What's the difference between Recurrent Neural Networks and Recursive Neural Networks?
+•	Related To: RNN
+•	Q56:   Name some advantages of using Convolutional Neural Networks vs Dense Neural Networks for image classification
+•	Related To: CNN
+•	Q57:   In CNN, what are the pros and cons of Max Pooling vs Average Pooling? 
+•	Related To: CNN
+•	Q58:   Why would you use Encoder-Decoder RNNs vs plain sequence-to-sequence RNNs for automatic translation?
+•	Related To: NLP, RNN
+•	Q59:   What's the difference between Stateful RNN vs Stateless RNN? What are their pros and cons?
+•	Related To: NLP, RNN
+•	Q60:   What's the difference between VALID and SAME padding?
+•	Q61:   Are there any problems when using Random Initialisation to initialise Weight and Bias? If yes, how to overcome it?
+•	Q62:   What's the difference between LTSM and GRUs units?
+•	Q63:   What do the fully connected layers do in CNNs?
+•	Related To: CNN
+•	Q64:   How to choose the Number of Layers and Nodes in a Feedforward neural network?
+•	Q65:   How would you change a neural network from regression to classification?
+•	Q66:   When would you use MLP, CNN, and RNN?
+•	Related To: RNN, CNN
+•	Q67:   What are Generative Adversarial Networks?
+•	Related To: Deep Learning
+•	Q68:   What is a Boltzmann Machine?
+•	Related To: Deep Learning
+•	Q69:   How does Randomized Connection Dropping affect the Deep Learning model?
+•	Related To: Deep Learning
+•	Q70:   What are Variational Autoencoders?
+•	Related To: Autoencoders
+•	Q71:   What are Bidirectional RNN and what are its uses?
+•	Q72:   Why is it a common practice to add a Pooling Layer after a CNN layer?
+•	Q73:   Why do you need to pad the input dataset when CNN is used?
+•	Q74:   What Neural Network Architecture could you use to classify videos?
+•	Related To: Deep Learning
+•	Q75:   How can you convert a Dense Layer of a CNN into a Fully Convolutional Layer?
+•	Related To: Deep Learning
+•	Q76:   Describe two ways to visualize features of a CNN in an image classification task
+•	Related To: Deep Learning
+•	Q77:   What is the purpose of the ROI layer in a Fast R-CNN?
+•	Related To: Deep Learning
+•	Q78:   Is it a good idea to use CNN to classify 1D signal?
+•	Q79:   Name some CNNs architectures that you know
+•	Related To: Deep Learning
+•	Q80:   How do Neural Networks distinguish useful features from non-useful features in Computer Vision?
+•	Related To: Computer Vision
+•	Q81:   Give some reasons to choose Random Forests over Neural Networks
+•	Related To: Ensemble Learning, Random Forests
+•	Q82:   What are some advantages of Neural Network over Random Forest?
+•	Related To: Random Forests
+•	Q83:   How would you fix the Exploding Gradient Problem?
+•	Q84:   What is the difference between ReLU, Leaky ReLU, Exponential Linear Unit (ELU), and Parametric ReLU (PReLU)?
+•	Q85:   When do you use ReLU, Tanh, and Sigmoid activation functions in Neural Networks?
+•	Q86:   Why does a Deep Neural Network work better than a Shallow Neural Network?
+•	Related To: Deep Learning
+•	Q87:   Compare Feed-forward and Recurrent Neural Network
+•	Related To: RNN
+•	Q88:   Compare the Convolutional Neural Network and Multi-layer Perceptron
+•	Related To: CNN
+•	Q89:   What is a Radial Basis Function Network?
+•	Q90:   What are some uses of Echo-State Networks?
+•	Q91:   Explain the intuition behind RNN having a Vanishing Gradient Problem?
+•	Related To: RNN
+•	Q92:   What is a GRU?
+•	Q93:   How are Attention Metrics modeled in Neural Networks?
+•	Q94:   What is intuition behind using CNN for NLP?
+•	Related To: NLP, CNN
+•	Q95:   How would you create a Neural Captioning Model?
+•	Related To: NLP
+•	Q96:   Explain the concept behind the Neural Machine Translator
+•	Related To: NLP
+•	Q97:   What is an Embedding in NLP?
+•	Related To: NLP
+•	Q98:   What is Sequential Minimal Optimization?
+•	Related To: SVM
+•	Q99:   What are the differences between Decision Trees and Neural Networks?
+•	Related To: Decision Trees
+•	Q100:   Explain how Autoencoders can be used for Anomaly Detection?
+•	Related To: Anomaly Detection, Autoencoders
+•	Q101:   What are some benefits of Scaling the Data for Neural Networks?
+•	Related To: Data Processing
+•	Q102:   When you are Optimizing your Neural Network, is it a good idea to Prune the Network?
+•	Related To: Optimisation
+•	Q103:   Should Training Samples Randomly Drawn for Mini-Batch Training Neural Networks be drawn with or without Replacement?
+•	Related To: Optimisation
+•	Q104:   What's the difference between multi-headed and multi-channel CNNs?
+•	Related To: CNN
+•	Q105:   What's the difference between CNN-LSTMs and ConvLSTMs?
+•	Related To: CNN
+•	Q106:   How to calculate the output of a Recurrent Neural Network (RNN)?
+•	Related To: RNN
+•	Q107:   What is the difference between Dropout and Drop Connect?
+•	Q108:   What's the difference between Convolutional Layers vs Fully Connected Layers?
+•	Related To: CNN
+•	Q109:   Compare Variational Autoencoders and Generative Adversarial Network?
+•	Related To: Autoencoders
+•	Q110:   What are the differences between Restricted Boltzmann Machine and the Feed-forward Network?
+•	Q111:   Why are Recurrent Neural Networks known to be Turing Complete?
+•	Q112:   How many ways to implement Skip Connections do you know?
+•	Related To: Deep Learning
+•	Q113:   Compare Hidden Markov Model vs Recurrent Neural Networks for solving sequence tasks
+•	Related To: Deep Learning
+•	Q114:   What's the advantage of using Anchor Boxes for Object Detection?
+•	Related To: Computer Vision
+•	Q115:   How does LSTM compare to RNN?
+•	Related To: RNN
+•	Q116:   Explain how a Recurrent Architecture for leveraging visual attention works
+•	Related To: RNN
+•	Q117:   What is a Deconvolutional Network?
+•	Q118:   How is Competitive Learning different from traditional Neural Networks?
+•	Q119:   How would you encode the structure of a Neural Network into a genome?
+•	Related To: Genetic Algorithms
+•	Q120:   What is NEAT (Neuroevolution of Augmenting Topologies) algorithm?
+•	Related To: Genetic Algorithms
+•	Q121:   How to combine Categorical and Continuous input features for NN training?
+•	Q122:   Should Forecasting with Neural Networks be only treated as a Supervised Learning Problem?
+•	Q123:   Why would you want to use 1D convolutional layers in an RNN?
+•	Related To: RNN
+•	Q124:   What are Spiking Neural Networks?
+•	Q125:   Are there any troubles when using Early Stopping?
+•	Related To: ML Design Patterns, Data Processing, Model Evaluation
+•	Neural Networks Practical Challenges
+•	Q1:   Can you draw the architecture of a Perceptron with two input neurons, one bias neuron, and three output neurons?
+•	Q2:   Using Keras, construct a simple autoencoder architecture using Dense layers and a Sequential model for 784-dimensional data
+•	Related To: Deep Learning, Keras
+•	Q3:   Describe the architecture of a typical Convolutional Neural Network (CNN)
+•	Related To: CNN
+•	Q4:   Using Keras, how can you visualize the filters of some layer of a CNN? 
+•	Related To: Keras
+•	Q5:   Complete the code below to construct and evaluate a Convolutional Network in TensorFlow
+•	Related To: TensorFlow
+•	Q6:   Explain how would you train Perceptron? Implement in plain Python
+•	PY Related To: Python
+•	Q7:   Can you sketch the LSTM cell's architecture?
+•	NumPy Q&As
+•	Q1:   Why to use NumPy?
+•	Entry 
+•	Q2:   What is the difference between ndarray and array in NumPy?
+•	Q3:   How would you convert a Pandas DataFrame into a NumPy array?
+•	Q4:   Explain what is ndarray in NumPy
+•	Q5:   Compute the min/max for each row for a NumPy 2D array
+•	Q6:   What are the advantages of NumPy over regular Python lists?
+•	Q7:   What are the differences between np.mean() vs np.average() in Python NumPy?
+•	Q8:   What is the most efficient way to map a function over a NumPy array?
+•	Q9:   What is the difference between flatten and ravel functions in NumPy?
+•	Q10:  What is the purpose of meshgrid in Python/NumPy?
+•	Related To: Python
+•	Q11:   What are the differences between NumPy arrays and matrices?
+•	Q12:   What is the difference between Vectorisation vs Broadcasting in NumPy?
+•	Q13:   What does einsum do in NumPy?
+•	Q14:   Explain what is Vectorization in NumPy
+•	Q15:   What is broadcasting in connection to Linear Algebra?
+•	Related To: Linear Algebra
+•	Q16:   Is there a difference between Numpy var() and Pandas var()?
+•	Related To: Pandas
+•	Q17:   How to normalize an array in NumPy to a Unit Vector?
+•	Q18:   What's the difference between a View and a Shallow Copy of a NumPy array?
+•	Q19:   What is the difference between the following assignment methods?
+•	Q20:   What is the difference between contiguous and non-contiguous arrays?
+•	Q21:   What are Strides in NumPy? How does it work?
+•	Q22:   What are some main reason why NumPy is so fast?
+•	Q23:   What is Fortran contiguous arrays?
+•	NumPy Practical Challenges
+•	Q1:   How to access the i-th column of a NumPy multidimensional array?
+•	Q2:   How to find all occurrences of an Element in a list
+•	Related To: Python
+•	Q3:   Calculate the Euclidean Distance between two points 
+•	Q4:   How would you reverse a NumPy array?
+•	Q5:   How would you get indices of N-max values in a NumPy array?
+•	Q6:   What is the difference between test[:,0] vs test[:,[0]]? When would you use one?
+•	Q7:   Transpose matrix using einsum similar to np.transpose(arr)
+•	Q8:   Extract all numbers between a given range from a NumPy array
+•	Q9:   What's the easiest way to implement a moving average with NumPy?
+•	Q10:  How to find all the local maxima (or peaks) in a 1D array?
+•	Q11:  Convert array of indices to One-Hot encoded NumPy array
+•	Q12:   How to convert an array of arrays into a flat 1D array?
+•	Q13:   How to convert a numeric array to a categorical (text) array?
+•	Q14:   Sum over last two axis at once
+•	Q15:   Write the einsum equivalent of inner, outer, sum, and multiplication functions
+•	Q16:   Consider an array Z = [1,2,3,4,5,6,7,8,9,10,11,12,13,14], how to generate an array R = [[1,2,3,4], [2,3,4,5], [3,4,5,6], ..., [11,12,13,14]]?
+•	Q17:   Consider a one-dimensional array Z, build a two-dimensional array whose first row is (Z[0],Z[1],Z[2]) and each subsequent row is shifted by 1 (last row should be (Z[-3],Z[-2],Z[-1]))
+•	Optimisation Q&As
+•	Q1:   What is Optimisation in Machine Learning?
+•	Entry 
+•	Q2:   What are Bayesian Optimization Methods?
+•	Q3:   Why do you need to know Convex Optimization?
+•	Q4:   What are Differentiable Objective Functions?
+•	Q5:   What are Non-Differentiable Objective Functions?
+•	Q6:   What methods of Hyperparameters Tuning do you know?
+•	Related To: ML Design Patterns, Model Evaluation, Dimensionality Reduction
+•	Q7:   When would you use Grid Search vs Random Search for Hyperparameter Tuning?
+•	Related To: ML Design Patterns, Dimensionality Reduction
+•	Q8:   Why is Newton's Method not used in Optimisation as opposed to Gradient Descent?
+•	Q9:   Compare Batch Gradient Descent and Stochastic Gradient Descent
+•	Related To: Gradient Descent
+•	Q10:  What is Random Search Optimization?
+•	Q11:   How does the Adam method of Stochastic Gradient Descent work?
+•	Related To: Gradient Descent
+•	Q12:   When you are Optimizing a Neural Network, does it make sense to combine both Momentum and Weight Decay to improve the performance?
+•	Related To: Neural Networks
+•	Q13:   When Optimizing a Neural Network, how do you define the Termination Condition for Gradient Descent?
+•	Related To: Gradient Descent
+•	Q14:   Why does Newton's Method only use First and Second Derivatives, not Third or Higher Derivatives?
+•	Q15:   How does Batch Size affect the Convergence of SGD and why?
+•	Related To: Gradient Descent
+•	Q16:   When are Genetic Algorithms a good choice for Optimisation?
+•	Related To: Genetic Algorithms
+•	Q17:   How is AdaGrad used to optimize a Learning Rate?
+•	Q18:   When should we use Algorithms like Adam as opposed to SGD?
+•	Related To: Gradient Descent
+•	Q19:   How do you use the Convex Optimization Approach to Minimize Regret?
+•	Q20:   Compare using Newton's Method and Gradient Descent for Optimisation
+•	Q21:   What is the difference between Momentum based Gradient Descent and Nesterov's Accelerated Gradient Descent?
+•	Related To: Gradient Descent
+•	Q22:   Explain in detail how Momentum-based Gradient Descent and Nesterov's Accelerated Gradient Descent work
+•	Related To: Gradient Descent
+•	Q23:   In Hyperparameter Optimization, would you use Random Search or Grid Search to achieve a better performance?
+•	Q24:   In Random Forests, how do you optimize the Number of Trees T in the Forest?
+•	Related To: Random Forests
+•	Q25:   In what situations would you prefer Coordinate Descent over Gradient Descent?
+•	Related To: Gradient Descent
+•	Q26:   When you are Optimizing your Neural Network, is it a good idea to Prune the Network?
+•	Related To: Neural Networks
+•	Q27:   For both Convex, and Non-Convex Problems, does the Gradient in SGD always point to the global extreme value?
+•	Related To: Gradient Descent
+•	Q28:   Should Training Samples Randomly Drawn for Mini-Batch Training Neural Networks be drawn with or without Replacement?
+•	Related To: Neural Networks
+•	Q29:   Why is Newton's Method not sensitive to ill-conditioned Hessian?
+•	Q30:   What is the Mirror Descent?
+•	Related To: Gradient Descent
+•	Q31:   How Bayesian Optimisation is used in Hyperparameter Tuning?
+•	Q32:   What is an Optimization Strategy which can be used to solve Convex Problems but is Blind to the Problem Structure?
+•	Q33:   What does "almost all local minimum have very similar function value to the global optimum" mean?
+•	PCA Q&As
+•	Q1:   How Principal Component Analysis (PCA) is used for Dimensionality Reduction?
+•	Related To: Dimension Reduction, Unsupervised Learning
+•	Q2:   What is Principal Component Analysis (PCA)?
+•	Related To: Dimensionality Reduction
+•	Q3:   How is the first principal component axis selected in PCA?
+•	Related To: Dimensionality Reduction
+•	Q4:   Can we use PCA for feature selection?
+•	Related To: Feature Engineering
+•	Q5:   What are some advantages of using LLE over PCA?
+•	Related To: Unsupervised Learning, Dimensionality Reduction
+•	Q6:   Why is Centering and Scaling the data important before performing PCA?
+•	Related To: Linear Algebra, Dimensionality Reduction
+•	Q7:   What is the difference between PCA and Random Projection approaches?
+•	Related To: Dimensionality Reduction
+•	Q8:   Would you use PCA on large datasets or there is a better alternative?
+•	Related To: Scikit-Learn
+•	Q9:   How do you perform Principal Component Analysis (PCA)?
+•	Related To: Feature Engineering
+•	Q10:   What's the difference between PCA and t-SNE?
+•	Related To: Dimensionality Reduction
+•	Q11:   Is PCA checks what characteristics are redundant and discards them?
+•	Related To: Dimension Reduction
+•	Q12:   How is PCA used for Anomaly Detection?
+•	Related To: Anomaly Detection, Unsupervised Learning
+•	Q13:   When would you use Manifold Learning techniques over PCA?
+•	Related To: Dimensionality Reduction
+•	Q14:   What is Sparse PCA?
+•	Related To: Dimensionality Reduction
+•	Q15:   What's the difference between Principal Component Analysis and Independent Component Analysis?
+•	Related To: Feature Engineering
+•	Q16:   What is the relationship between k-Means Clustering and PCA?
+•	Related To: Clustering, K-Means Clustering
+•	PCA Practical Challenges
+•	Q1:   How can you obtain the principal components and the eigenvalues from Scikit-Learn PCA?
+•	Related To: Scikit-Learn
+•	Pandas Q&As
+•	Q1:   How to create new columns derived from existing columns in Pandas?
+•	Entry 
+•	Q2:   How are iloc() and loc() different?
+•	Q3:   What are the operations that Pandas Groupby method is based on ?
+•	Q4:   Describe how you will get the names of columns of a DataFrame in Pandas
+•	Q5:   In Pandas, what do you understand as a bar plot and how can you generate a bar plot visualization
+•	Q6:   How would you iterate over rows in a DataFrame in Pandas?
+•	Q7:   How to check whether a Pandas DataFrame is empty?
+•	Q8:   Define the different ways a DataFrame can be created in Pandas
+•	Q9:   Why do should make a copy of a DataFrame in Pandas?
+•	Q10:  What does the in operator do in Pandas?
+•	Q11:   How does the groupby() method works in Pandas?
+•	Q12:   Name some methods you know to replace NaN values of a DataFrame in Pandas
+•	Q13:   Compare the Pandas methods: map(), applymap(), apply()
+•	Q14:   Name the advantage of using applymap() vs apply() method
+•	Q15:   When cleaning data, mention how you will identify outliers present in a DataFrame object
+•	Q16:   Describe how you can combine (merge) data on Common Columns or Indices?
+•	Q17:   What is the difference between join() and merge() in Pandas?
+•	Q18:   What is the difference(s) between merge() and concat() in Pandas?
+•	Q19:   When to use merge() over concat() and vice-versa in Pandas?
+•	Q20:   How will you write DataFrame to PostgreSQL table?
+•	Q21:   Name some type conversion methods in Pandas
+•	Q22:   Is it a good idea to iterate over DataFrame rows in Pandas?
+•	Q23:   How can I achieve the equivalents of SQL's IN and NOT IN in Pandas?
+•	Q24:   How would you create Test (20%) and Train (80%) Datasets with Pandas?
+•	Related To: Scikit-Learn
+•	Q25:   What's the difference between interpolate() and fillna() in Pandas?
+•	Q26:   Is there a difference between Numpy var() and Pandas var()?
+•	Related To: NumPy
+•	Q27:   When would you use Scikit-Learn OneHotEncoder() vs Pandas pd.get_dummies()? 
+•	Related To: Scikit-Learn
+•	Q28:   How would you convert continuous values into discrete values in Pandas?
+•	Q29:   What's the difference between at and iat in Pandas?
+•	Q30:   What's the difference between pivot_table() and groupby()?
+•	Q31:   What are some best-practices to work with Large Files in Pandas?
+•	Q32:   Explain what is Multi-indexing in Pandas?
+•	Q33:   What is Vectorization in a context of using Pandas?
+•	Q34:   What are some best practises to optimize Pandas code?
+•	Q35:   How would you deal with large CSV files in Pandas?
+•	Q36:   What's the difference between apply and transform on a Group object? 
+•	Q37:   What does the stack() and unstack() functions do in a DataFrame?
+•	Q38:   How is a Pandas crosstab different from a Pandas pivot_table? When would you use each one?
+•	Q39:   What is the pipe method? When you would use it?
+•	Q40:   How do you construct a MultiIndex for a DataFrame? Provide an example
+•	Pandas Practical Challenges
+•	Q1:   How do you count unique values per group with Pandas?
+•	Entry 
+•	Q2:   If we have a date column in our dataset, then how will you perform Feature Engineering using Python?
+•	Related To: Dimensionality Reduction, Feature Engineering
+•	Q3:   How can you sort the DataFrame?
+•	Q4:   How to convert str to datetime format in Pandas?
+•	Q5:   What does describe() percentiles values tell about our data?
+•	Q6:   How to split a string column in a DataFrame into two columns?
+•	Q7:   How can you find the row for which the value of a specific column is max or min?
+•	Q8:   How can you get a list of Pandas DataFrame columns based on data type?
+•	Q9:   How to get a count of the number of observations for each year in the example dataframe?
+•	Q10:  A column in a df has boolean True/False values, but for further calculations, we need 1/0 representation. How would you transform it?
+•	Q11:  Group DataFrame Rows into a List
+•	Q12:  Select rows from a DataFrame based on columns value in Pandas?
+•	Q13:  Select rows whose column value does not equal some_value in Pandas
+•	Q14:  How can you subset DataFrame based on a list of values?
+•	Q15:  Count the NaN values in a column in pandas DataFrame
+•	Q16:  How would you encode a large Pandas dataframe using Scikit-Learn?
+•	Related To: Scikit-Learn
+•	Q17:  How can you get count and mean statistics for groups in Pandas?
+•	Q18:  How can you read multiple files to create a single DataFrame?
+•	Q19:  Find a way to binary encode multi-valued categorical variables from a Pandas dataframe
+•	Q20:  How can you determine the memory usage of a DataFrame and of each column?
+•	Q21:  How do you split a DataFrame according to a boolean criterion?
+•	Q22:  How to count occurrences of values within a specific range by row?
+•	Q23:  Pivot Table Challenge
+•	Q24:  How can you read only certain rows of a CSV file chunk-by-chunk?
+•	Q25:   Suppose df2 is a subset of df1. How can you get the rows of df1 which are not in df2?
+•	Related To: Scikit-Learn
+•	Q26:   How would you compare two DataFrames and output their differences side-by-side?
+•	Q27:   How to test if a string contains one of the substrings in a list, in Pandas?
+•	Q28:   Select rows in pandas MultiIndex DataFrame: select rows with values t and w on level two
+•	Probability Q&As
+•	Q1:   What is a Probability Distribution?
+•	Entry 
+•	Q2:   What is the difference between the Bernoulli and Binomial distribution?
+•	Q3:   What's the difference between Probability Mass Functions and Density Probability Functions?
+•	Q4:   What is the difference between a Combination and a Permutation?
+•	Q5:   Find a probability of dangerous Fire when there is Smoke
+•	Related To: Naïve Bayes
+•	Q6:   How would you test hypotheses using Bayes' Rule?
+•	Related To: Naïve Bayes
+•	Q7:   What's the difference between the likelihood and the posterior probability in Bayesian statistics?
+•	Related To: Naïve Bayes
+•	Q8:   What is a Poisson process?
+•	Q9:   Name some Probability Distributions you know
+•	Q10:   What is the Bayesian approach to probability?
+•	Q11:   What's the difference between Disjoint Events and Independent Events?
+•	Q12:   What's the difference between Cumulative Distribution Functions and Probability Density Functions?
+•	Q13:   When is an event Independent of Itself?
+•	Q14:   What's the difference between Binomial Distribution and Geometric Distribution?
+•	Q15:   How do you transform a Skewed Distribution into a Normal Distribution?
+•	Q16:   How would you Calibrate Probabilities for a classification model?
+•	Related To: Classification
+•	Q17:   Explain if the inference using the Frequentist Approach will always yield the same result as the Bayesian approach?
+•	Q18:   What is the Cumulative Distribution Function?
+•	Q19:   Name some methods you will use to estimate the Parameters of a Probability Distribution
+•	Q20:   How would you check if two events are Independent?
+•	Q21:   Why would you use Probability Calibration?
+•	Related To: Classification
+•	Q22:   What is the difference between Bayesian Estimation and Maximum Likelihood Estimation?
+•	Probability Practical Challenges
+•	Q1:   Box challenge: Which box has a higher probability of getting cards of the same color and why?
+•	Q2:   Presidential Election Challenge: What is the probability that A or B wins the election?
+•	Q3:   Rolling a fair die event challenge
+•	Q4:   Given two fair dices, what is the probability that two dices sum to 8?
+•	Related To: Naïve Bayes
+•	Q5:   Two cards challenge: What is the probability that the two cards are not in the same color and not in the same number?
+•	Q6:   Interview challenge: If you feel that you had a good first interview, what is the probability you will receive a second interview?
+•	Q7:   A coin was flipped 1000 times, and 550 times it showed up heads. Do you think the coin is biased?
+•	Q8:   Three Ants Challenge
+•	Q9:   Ana and Carly Challenge
+•	Q10:  Flipping the Unfair Coin challenge
+•	Q11:  True Positive and False Positive challenge
+•	Q12:    Product Purchase Challenge
+•	Q13:   Total Number of Possible Passwords Challenge
+•	Related To: Statistics
+•	Q14:   Mathematics Competition Challenge
+•	Related To: Statistics
+•	Python Q&As
+•	Q1:   What are the built-in types available In Python?
+•	Entry 
+•	Q2:   Name some characteristics of Python? 
+•	Entry 
+•	Q3:   How do I modify a string?
+•	Entry 
+•	Q4:   Name some benefits of Python
+•	Q5:   What is Lambda Functions in Python?
+•	Q6:   When to use a tuple vs list vs dictionary in Python?
+•	Q7:   What are the rules for local and global variables in Python?
+•	Q8:   What is Negative Index in Python?
+•	Q9:   What are local variables and global variables in Python?
+•	Q10:   What are descriptors?
+•	Q11:   How the string does get converted to a number?
+•	Q12:    Does Python have a switch-case statement?
+•	Q13:   Explain what is Binary Search
+•	JSJavaPY Related To: Searching
+•	Q14:   Explain what is Linear (Sequential) Search and when may we use one?
+•	JSPY Related To: Searching
+•	Q15:   What's the difference between lists and tuples?
+•	Q16:   Is it possible to have static methods in Python?
+•	Q17:   Explain how does Python memory management work?
+•	Q18:   What's the difference between the list methods append() and extend()?
+•	Q19:   Why would you use the pass statement?
+•	Q20:   What are Decorators in Python?
+•	Q21:   Is there a tool to help find bugs or perform static analysis?
+•	Q22:   What is Monkey Patching and is it ever a good idea?
+•	Q23:   Explain the UnboundLocalError exception and how to avoid it?
+•	Q24:   What are immutable objects in Python?
+•	Q25:   What is the difference between range and xrange functions in Python?
+•	Q26:   What is a None value?
+•	Q27:   What is Pickling and Unpickling?
+•	Q28:   What does this stuff mean: *args, **kwargs? Why would we use it?
+•	Q29:   How can I create a copy of an object in Python?
+•	Q30:   How can you share global variables across modules?
+•	Q31:   What are the key differences between Python 2 and 3?
+•	Q32:   What is a Callable?
+•	Q33:   What is the function of self?
+•	Q34:   What are virtualenvs?
+•	Q35:   What does an x = y or z assignment do in Python?
+•	Q36:   What are the Dunder/Magic/Special methods in Python? Name a few.
+•	Q37:   What are the Wheels and Eggs? What is the difference?
+•	Q38:   What is the difference between range and xrange? How has this changed over time?
+•	Q39:   What is introspection/reflection and does Python support it?
+•	Q40:   What is the python with statement designed for?
+•	Q41:   What does the Python nonlocal statement do (in Python 3.0 and later)?
+•	Q42:   Explain how to use Slicing in Python?
+•	Q43:   Explain what is Interpolation Search
+•	JSPY Related To: Searching
+•	Q44:   What is a Jump (or Block) Search?
+•	JSJavaPY Related To: Searching
+•	Q45:   How to determine k using the Elbow Method?
+•	PY Related To: K-Means Clustering
+•	Q46:   What is the purpose of meshgrid in Python/NumPy?
+•	Related To: NumPy
+•	Q47:   In which cases would you use Python over R and vice versa?
+•	Related To: R
+•	Q48:   What are the disadvantages of R in comparison with Python?
+•	Related To: R
+•	Q49:   What are the advantages of R in comparison with Python?
+•	Related To: R
+•	Q50:   How would you create a Recommender System for Text Inputs?
+•	PY Related To: Recommendation Systems
+•	Q51:   What is the difference between @staticmethod and @classmethod?
+•	Q52:   What are metaclasses in Python?
+•	Q53:   What's the difference between a Python module and a Python package?
+•	Q54:   Why are default values shared between objects?
+•	Q55:   What is GIL?
+•	Q56:   Is it a good idea to use multi-thread to speed your Python code?
+•	Q57:   Why Python (CPython and others) uses the GIL?
+•	Q58:   How to work with transitive dependencies?
+•	Q59:   How is set() implemented internally?
+•	Q60:   What is MRO in Python? How does it work?
+•	Q61:   Can you explain Closures (as they relate to Python)?
+•	Q62:   What is an alternative to GIL?
+•	Q63:   How is memory managed in Python?
+•	Q64:   What is the purpose of the single underscore _ variable in Python?
+•	Q65:   What is Cython?
+•	Q66:   Why are Python's private methods not actually private?
+•	Q67:   What is the difference between old style and new style classes in Python?
+•	Q68:   Explain how you reverse a generator?
+•	Q69:   What is the difference between deep and shallow copy?
+•	Q70:   What is Monkey Patching? How to use it in Python?
+•	Q71:   What are the advantages of NumPy over regular Python lists?
+•	Q72:   Why aren't Python nested functions called closures?
+•	Q73:   What is the difference between a function decorated with @staticmethod and one decorated with @classmethod?
+•	Q74:   How is Differential Evolution different from Genetic Algorithms?
+•	PY Related To: Genetic Algorithms
+•	Q75:   How to determine k using the Silhouette Method?
+•	PY Related To: K-Means Clustering
+•	Q76:   Why would you use metaclasses?
+•	Q77:   Describe Python's Garbage Collection mechanism in brief
+•	Q78:   Is there a simple, elegant way to define singletons?
+•	Q79:   Why use else in try/except construct in Python?
+•	Q80:   What is a global interpreter lock (GIL) and why is it an issue?
+•	Q81:   Is there any downside to the -O flag apart from missing on the built-in debugging information?
+•	Q82:   What does Python optimisation (-O or PYTHONOPTIMIZE) do?
+•	Q83:   Why isn't all memory freed when Python exits?
+•	Q84:   How to train a network only on one output when there are multiple outputs in Keras?
+•	Related To: Keras
+•	Python Practical Challenges
+•	Q1:   Explain how Bubble Sort works
+•	JSPY Related To: Sorting
+•	Entry 
+•	Q2:   Return the N-th value of the Fibonacci sequence. Solve in O(n) time
+•	JSJavaPY Related To: Fibonacci Series, Data Structures
+•	Q3:   Return the N-th value of the Fibonacci sequence Recursively
+•	JSJavaPY Related To: Fibonacci Series, Data Structures
+•	Q4:   How to implement a Tree data-structure? Provide some code.
+•	JavaPY Related To: Binary Tree, Trees, Data Structures
+•	Q5:   Convert a Singly Linked List to Circular Linked List
+•	PY Related To: Linked Lists, Data Structures
+•	Q6:   Implement Pre-order Traversal of Binary Tree using Recursion
+•	JavaPY Related To: Binary Tree, Data Structures
+•	Q7:   Given variables a and b, switch their values so that b has the value of a, and a has the value of b without using an intermediary variable
+•	Q8:   Suppose lst is [2, 33, 222, 14, 25]. What is lst[-1]?
+•	Q9:   Explain how Insertion Sort works
+•	JSJavaPY Related To: Sorting
+•	Q10:  How to find all occurrences of an Element in a list
+•	Related To: NumPy
+•	Q11:  How to merge two sorted Arrays into a Sorted Array?
+•	JSJavaPY Related To: Arrays, Data Structures
+•	Q12:  Explain how Heap Sort works
+•	JSPY Related To: Heaps and Maps, Data Structures, Sorting
+•	Q13:  LIS: Find length of the longest increasing subsequence (LIS) in the array. Solve using DP.
+•	JSJavaPY Related To: Dynamic Programming, Data Structures
+•	Q14:    How to check if two Strings (words) are Anagrams?
+•	CSJavaPY Related To: Strings, Data Structures
+•	Q15:   Find all the Permutations of a String
+•	JSJavaPY Related To: Backtracking, Strings, Data Structures
+•	Q16:   Convert a Binary Tree to a Doubly Linked List
+•	JavaPY Related To: Binary Tree, Divide & Conquer, Linked Lists, Recursion, Data Structures
+•	Q17:   Can you do Iterative Pre-order Traversal of a Binary Tree without Recursion?
+•	CSPY Related To: Binary Tree, Data Structures
+•	Q18:   How to make a flat list out of list of lists?
+•	Q19:   How do I check if a list is empty?
+•	Q20:   What is the most efficient way to concatenate many strings together?
+•	Q21:   Write a program to check whether the object is of a class or its subclass
+•	Q22:   Is this valid in Python and why?
+•	Q23:   After executing the above code, what is the value of y?
+•	Q24:   Write a program for Recursive Binary Search
+•	JSJavaPY Related To: Searching
+•	Q25:   Explain how does the Sentinel Search work?
+•	CSPY Related To: Searching
+•	Q26:   Explain how Merge Sort works
+•	JSPY Related To: Divide & Conquer, Sorting
+•	Q27:   Sort a Stack using Recursion
+•	JavaPY Related To: Stacks, Sorting
+•	Q28:   Sort a Stack using another Stack
+•	JavaPY Related To: Stacks, Sorting
+•	Q29:   What does the Lambda layer do in Keras? What would be the output of this model?
+•	Related To: Keras
+•	Q30:   Explain how QuickSort works
+•	JSPY Related To: Divide & Conquer, Data Structures, Sorting
+•	Q31:   Binet's formula: How to calculate Fibonacci numbers without Recursion or Iteration? 
+•	CSJSJavaPY Related To: Fibonacci Series, Data Structures
+•	Q32:   Explain what is Fibonacci Search technique?
+•	CSJSJavaPY Related To: Divide & Conquer, Fibonacci Series, Data Structures, Searching
+•	Q33:   Find the length of a Linked List which contains Cycle (Loop)
+•	JavaPY Related To: Linked Lists, Data Structures
+•	Q34:   How to make a chain of function decorators?
+•	Q35:   How do I write a function with output parameters (call by reference)
+•	Q36:   Create function that similar to os.walk
+•	Q37:   What will be returned by this code?
+•	Q38:   Whenever you exit Python, is all memory de-allocated? 
+•	Q39:   Show me three different ways of fetching every third item in the list
+•	Q40:   Will the code below work? Why or why not?
+•	Q41:   What will be the output of the code below?
+•	Q42:   Explain when and how to use Exponential (aka Doubling or Galloping) Search? 
+•	JSPY Related To: Searching
+•	Q43:   Explain how Radix Sort works
+•	JSPY Related To: Sorting
+•	Q44:   How would you train Linear Regression model using Normal Equation? Implement in Python
+•	PY Related To: Linear Regression
+•	Q45:   How would you train Linear Regression model using Gradient Descent? Implement in Python
+•	PY Related To: Linear Regression, Gradient Descent
+•	Q46:   How would you train Logistic Regression? Implement in Python
+•	PY Related To: Logistic Regression
+•	Q47:   Implement k-Nearest-Neighbor Algorithm in plain Python
+•	PY Related To: K-Nearest Neighbors
+•	Q48:   Implement K-Means Clustering Algorithm in plain Python
+•	PY Related To: K-Means Clustering
+•	Q49:   Explain how would you train Perceptron? Implement in plain Python
+•	PY Related To: Neural Networks
+•	Q50:   What will this code return?
+•	Q51:   How do I access a module written in Python from C?
+•	Q52:   How should one access nonlocal variables in closures in python 2.x?
+•	Q53:   How to read a 8GB file in Python?
+•	Q54:   How would you implement primal SVM in plain Python?
+•	PY Related To: SVM
+•	Q55:   Explain how you would implement CART training algorithm in plain Python
+•	PY Related To: Decision Trees
+•	Q-Learning Q&As
+•	Q1:   How to define States in Reinforcement Learning?
+•	Related To: Reinforcement Learning
+•	Q2:   How do you know when a Q-Learning Algorithm converges?
+•	Related To: Reinforcement Learning
+•	Q3:    What do the Alpha and Gamma parameters represent in Q Learning?
+•	Related To: Reinforcement Learning
+•	Q4:   What is the difference between Q-Learning and SARSA and when would you use each one?
+•	Related To: Reinforcement Learning
+•	Q5:   What is the difference between episode and epoch in Deep Q-Learning?
+•	Related To: Reinforcement Learning
+•	Q6:   What's the difference between a Deep Q-Network and a categorical Deep Q-Network?
+•	Related To: Reinforcement Learning
+•	Q7:   Can Q-learning be used for continuous (state or action) spaces? If not, then what would you use?
+•	Related To: Reinforcement Learning
+•	Q8:   What's the difference between Q-Learning and Policy Gradients methods?
+•	Related To: Reinforcement Learning
+•	Q9:   What's the difference between Deep Q-Learning and Policy Gradient Method?
+•	Related To: Reinforcement Learning
+•	Q10:   Why do we need the target network in a Deep Q-Network?
+•	Related To: Reinforcement Learning
+•	Q11:   What are some advantages of Quantile Regression DQN over Categorical DQN?
+•	Related To: Reinforcement Learning
+•	Q12:   What's the difference between Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)?
+•	Related To: Reinforcement Learning
+•	R Q&As
+•	Q1:   How do you convert factors to numeric? 
+•	Entry 
+•	Q2:   What are the three important components of a function in R?
+•	Entry 
+•	Q3:   What are the Enclosing and Parent Environments and why are they important?
+•	Q4:   When to use the with() function and why is it good?
+•	Q5:   What's the difference between [ ] and [[ ]] for accessing the elements of a list or dataframe? 
+•	Q6:   Name some examples of when its appropriate to use the which() function
+•	Q7:   What is the use of next statement in R?
+•	Q8:   How do you create a new column in a dataset based on some condition?
+•	Q9:   What happens if you use the function switch() with numeric values?
+•	Q10:   What are the differences between = and <- assignment operators in R?
+•	Q11:   How can you return multiple objects in an R function?
+•	Q12:   When would you use apply, lapply and sapply? 
+•	Q13:   What are the sorting algorithms available in R?
+•	Q14:   Why is it not advisable to use attach() in R, and what should be used instead?
+•	Q15:   How can you join dataframes using SQL style joins (inner, outer, left, right) in R?
+•	Q16:   What is the recycling of elements in a vector? Give an example.
+•	Q17:   How do you convert list or matrices to a data frame?
+•	Q18:   In which cases would you use Python over R and vice versa?
+•	Related To: Python
+•	Q19:   What are the disadvantages of R in comparison with Python?
+•	Related To: Python
+•	Q20:   What are the advantages of R in comparison with Python?
+•	Related To: Python
+•	Q21:   What does the operator %>% do in R?
+•	Q22:   How many types of vectors exist in R? What are the difference between them?
+•	Q23:   Are there any problems with using the read.table() function?
+•	Q24:   How do you write summary methods?
+•	Q25:   What is the difference between Factor Levels and Factor Labels and how does these work in the factor() function?
+•	Q26:   What is lazy function evaluation in R?
+•	Q27:   What's the correct way to specify optional arguments in R functions?
+•	Q28:   Name some OOP systems available in R and when they could be useful
+•	Q29:   How do you access the source code for a function in R?
+•	Q30:   Why does summary() report strange results for the R-squared estimate when we fit a linear model with no intercept?
+•	R Practical Challenges
+•	Q1:   How can you count the number of times a value x appears in a vector?
+•	Q2:   Why do the two expressions below not return the same result?
+•	Q3:   How can you count vowels in a string?
+•	Q4:   What does this code do? How do f2 and f3 differ from f1?
+•	Q5:   What does the following function in R return?
+•	Q6:   Why is 1 == "1" true? Why is -1 < FALSE true? Why is "one" < 2 false?
+•	Q7:   What happens if you attempt to set row names that are not unique?
+•	Q8:   What type of vector does each of the following calls to ifelse() return?
+•	Q9:   How to pull out p-values and R-squared values from a linear regression model? 
+•	Q10:   What does this function in R return? Explain
+•	Q11:   Why are the numbers provided in the code below are not equal?
+•	RNN Q&As
+•	Q1:   What's the difference between Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) and in which cases would use each one?
+•	Related To: CNN, Neural Networks
+•	Q2:   What are the uses of using RNN in NLP?
+•	Related To: NLP, Neural Networks
+•	Q3:   Why are RNNs (Recurrent Neural Network) better than MLPs at predicting Time Series Data?
+•	Related To: Time Series
+•	Q4:   How many dimensions must the inputs of an RNN layer have? What does each dimension represent? What about its outputs?
+•	Related To: Neural Networks
+•	Q5:   What's the difference between Traditional Feedforward Networks and Recurrent Neural Networks?
+•	Related To: Neural Networks
+•	Q6:   What are the main difficulties when training RNNs? How can you handle them?
+•	Related To: Neural Networks
+•	Q7:   What types of Recurrent Neural Networks (RNN) do you know?
+•	Related To: Neural Networks
+•	Q8:   What's the difference between Recurrent Neural Networks and Recursive Neural Networks?
+•	Related To: Neural Networks
+•	Q9:   Why would you use Encoder-Decoder RNNs vs plain sequence-to-sequence RNNs for automatic translation?
+•	Related To: NLP, Neural Networks
+•	Q10:   What's the difference between Stateful RNN vs Stateless RNN? What are their pros and cons?
+•	Related To: NLP, Neural Networks
+•	Q11:   When would you use MLP, CNN, and RNN?
+•	Related To: CNN, Neural Networks
+•	Q12:   Compare Feed-forward and Recurrent Neural Network
+•	Related To: Neural Networks
+•	Q13:   Explain the intuition behind RNN having a Vanishing Gradient Problem?
+•	Related To: Neural Networks
+•	Q14:   How to calculate the output of a Recurrent Neural Network (RNN)?
+•	Related To: Neural Networks
+•	Q15:   How does LSTM compare to RNN?
+•	Related To: Neural Networks
+•	Q16:   Explain how a Recurrent Architecture for leveraging visual attention works
+•	Related To: Neural Networks
+•	Q17:   Why would you want to use 1D convolutional layers in an RNN?
+•	Related To: Neural Networks
+•	Random Forests Q&As
+•	Q1:   How would you define Random Forest?
+•	Related To: Ensemble Learning
+•	Entry 
+•	Q2:   Explain how the Random Forests give output for Classification, and Regression problems?
+•	Q3:   What are Ensemble Methods?
+•	Related To: Ensemble Learning
+•	Q4:   What are some hyperparameters in Random Forest?
+•	Q5:   How would you find the optimal size of the Bootstrapped Dataset?
+•	Q6:   Does Random Forest need Pruning? Why or why not?
+•	Q7:   Is it necessary to do Cross Validation in Random Forest?
+•	Q8:   How is a Random Forest related to Decision Trees?
+•	Related To: Decision Trees, Ensemble Learning
+•	Q9:   Is Random Forest an Ensemble Algorithm?
+•	Related To: Ensemble Learning
+•	Q10:   Explain the advantages of using Random Forest
+•	Q11:   What are some drawbacks of using Random Forest?
+•	Q12:   Why Random Forest models are considered not interpretable?
+•	Q13:   What is Out-of-Bag Error?
+•	Q14:   Explain the concept behind BAGGing
+•	Related To: Ensemble Learning
+•	Q15:   What does Random refer to in Random Forest?
+•	Q16:   What is the difference between OOB score and validation score?
+•	Related To: Decision Trees, Ensemble Learning
+•	Q17:   What are proximities in Random Forests?
+•	Q18:   How does the number of trees affect the Random Forest model?
+•	Q19:   How would you define the criteria to split on at each node of the trees?
+•	Q20:   How do you determine the Depth of the Individual Trees?
+•	Q21:   Why is the training efficiency of Random Forest better than Bagging?
+•	Q22:   How does Random Forest handle missing values?
+•	Q23:   What is Entropy criteria used to split a node?
+•	Q24:   What is Variable Selection and what are its Objectives in Random Forest?
+•	Q25:   How would you improve the performance of Random Forest?
+•	Related To: Feature Engineering
+•	Q26:   How is it possible to perform Unsupervised Learning with Random Forest?
+•	Related To: Unsupervised Learning
+•	Q27:   When would you use SVMs over Random Forest and vice-versa?
+•	Related To: SVM
+•	Q28:   What is the Isolation Forest Algorithm?
+•	Related To: Anomaly Detection
+•	Q29:   What is AdaBoost algorithm?
+•	Q30:   How are feature_importances_ in RandomForestClassifier determined in Scikit-Learn?
+•	Related To: Scikit-Learn
+•	Q31:   Give some reasons to choose Random Forests over Neural Networks
+•	Related To: Ensemble Learning, Neural Networks
+•	Q32:   What are some advantages of Neural Network over Random Forest?
+•	Related To: Neural Networks
+•	Q33:   What is Gini Impurity used to split a node?
+•	Q34:   How can you tell the importance of features using Random Forest?
+•	Q35:   Explain how it is possible to get feature importance in Random Forest using Out Of Bag Error
+•	Q36:   Imagine that you know there are outliers in your data, would you use Logistic Regression?
+•	Related To: Anomaly Detection, Decision Trees, Logistic Regression
+•	Q37:   Does Random Forest suffer from the Curse of Dimensionality?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q38:   In Random Forests, how do you optimize the Number of Trees T in the Forest?
+•	Related To: Optimisation
+•	Q39:   How would you find the optimal number of random features to consider at each split?
+•	Related To: Ensemble Learning
+•	Q40:   Explain a method of Variable Selection for Random Forest
+•	Q41:   What technique would you use to prevent Swamping and Masking for Isolation Forest Anomaly Detection?
+•	Related To: Anomaly Detection
+•	Recommendation Systems Q&As
+•	Q1:   What are Recommendation Systems?
+•	Entry 
+•	Q2:   What is the difference between Collaborative and Content based Recommender Systems?
+•	Q3:   What is a Model-Based Collaborative approach?
+•	Q4:   What are some Domain-Specific Challenges in Recommender Systems?
+•	Q5:   What are the basic components of a Content-Based System?
+•	Related To: Naïve Bayes
+•	Answer
+•	Reinforcement Learning Q&As
+•	Q1:    What is Reinforcement Learning? How does it compare with other ML techniques?
+•	Entry 
+•	Q2:   What is Markov Decision Process?
+•	Q3:   Provide an intuitive explanation of what is a Policy in Reinforcement learning
+•	Q4:   What is the role of the Discount Factor in Reinforcement Learning?
+•	Q5:   Name some approaches or algorithms you know in to solve a problem in Reinforcement Learning
+•	Q6:   How to define States in Reinforcement Learning?
+•	Related To: Q-Learning
+•	Q7:   What is the difference between a Reward and a Value for a given State?
+•	Q8:   How do you know when a Q-Learning Algorithm converges?
+•	Related To: Q-Learning
+•	Q9:   What does a Stationary Dynamics and Stationary Policy mean in the context of Reinforcement Learning?
+•	Q10:   What are the steps involved in a typical Reinforcement Learning algorithm?
+•	Q11:   What is the difference between Off-Policy and On-Policy Learning?
+•	Q12:    What do the Alpha and Gamma parameters represent in Q Learning?
+•	Related To: Q-Learning
+•	Q13:   What type of Neural Networks do Deep Reinforcement Learning use?
+•	Related To: Neural Networks
+•	Q14:   Compare Reinforced Learning and Supervised Learning
+•	Related To: Supervised Learning
+•	Q15:   What's the difference between a Deterministic vs Stochastic policy?
+•	Q16:   How does the Q function differ from the Value function in Reinforcement Learning?
+•	Q17:   What is the difference between Q-Learning and SARSA and when would you use each one?
+•	Related To: Q-Learning
+•	Q18:   Can you think of an example of an Epsilon-Greedy Policy in real life?
+•	Q19:   What types of Reinforcement Learning Environments do you know?
+•	Q20:   What's the advantage of using Policy Iteration vs Value iteration? 
+•	Q21:   Can the Monte Carlo Method be applicable to all tasks?
+•	Related To: Monte Carlo Method
+•	Q22:   How to distinguish Episodic Tasks vs Continuous Tasks?
+•	Q23:   How does the Monte Carlo prediction method compute the Value Function?
+•	Related To: Monte Carlo Method
+•	Q24:   What types of Monte Carlo Prediction Algorithms do you know?
+•	Related To: Monte Carlo Method
+•	Q25:   Name some advantages of using Temporal difference vs Monte Carlo methods for Reinforcement Learning
+•	Related To: Monte Carlo Method
+•	Q26:   Name some advantages of using Monte Carlo vs Dynamic Programming methods in Reinforcement Learning
+•	Related To: Monte Carlo Method
+•	Q27:   Why would you use a Policy-based method instead o a Value-based method?
+•	Q28:   Why would you use a Deep Q-Network?
+•	Q29:   What is the difference between episode and epoch in Deep Q-Learning?
+•	Related To: Q-Learning
+•	Q30:   Are there any problems when using REINFORCE to obtain the optimal policy?
+•	Q31:   What's the difference between Learning Rate Decay and Epsilon Decay? What is the context of each one?
+•	Q32:    Are there any problems when using the Epsilon-Greedy method to find the Optimal Policy? 
+•	Q33:   What's the difference between a Deep Q-Network and a categorical Deep Q-Network?
+•	Related To: Q-Learning
+•	Q34:   How to choose the values of Gamma and Lambda in generalised temporal differencing algorithms?
+•	Q35:   Can Q-learning be used for continuous (state or action) spaces? If not, then what would you use?
+•	Related To: Q-Learning
+•	Q36:   What's the difference between Q-Learning and Policy Gradients methods?
+•	Related To: Q-Learning
+•	Q37:   Can you apply Value Iteration and Policy Iteration in any environment?
+•	Q38:   What's the difference between Deep Q-Learning and Policy Gradient Method?
+•	Related To: Q-Learning
+•	Q39:   What is Sample Efficiency, and how can Importance Sampling be used to achieve it?
+•	Q40:   What is the difference between vanilla policy gradient (VPG) with a baseline as value function and advantage actor-critic (A2C)?
+•	Q41:   What are some best practices when trying to design a Reward Function?
+•	Q42:   How can policy gradients be applied in the case of multiple continuous actions?
+•	Q43:    When would you use a Deep Recurrent Q-Network?
+•	Related To: Deep Learning
+•	Q44:   Is the optimal policy always Stochastic if the environment is also Stochastic?
+•	Q45:   How does a Double Deep Q-Network differ from a Deep Q-Network?
+•	Q46:   Are there any problems when using a Softmax Function to select actions in a Deep Q-Network?
+•	Q47:   Why do we need the target network in a Deep Q-Network?
+•	Related To: Q-Learning
+•	Q48:   What are some advantages of Quantile Regression DQN over Categorical DQN?
+•	Related To: Q-Learning
+•	Q49:   What is the effect of Parallel Environments in Reinforcement Learning?
+•	Q50:   How does the Actor-Critic method differ from the Policy Gradient with the Baseline method?
+•	Q51:   What is Experience Replay and what are its benefits?
+•	Q52:   Why do regular Q-Learning and DQN overestimate the Q values?
+•	Q53:   What's the difference between Advantage Actor-Critic (A2C) and Asynchronous Advantage Actor-Critic (A3C)?
+•	Related To: Q-Learning
+•	Q54:   Can SARSA be used in a Partially Observable Markov Decision Process? If yes (or not), why?
+•	SQL Q&As
+•	Q1:   What is a VIEW?
+•	Entry 
+•	Q2:   Define a Temp Table 
+•	Entry 
+•	Q3:   What is PRIMARY KEY?
+•	Entry 
+•	Q4:   What is DEFAULT?
+•	Q5:   What is FOREIGN KEY?
+•	Q6:   What is Normalisation?
+•	Related To: Databases
+•	Q7:   What is the difference between TRUNCATE and DELETE?
+•	Related To: MySQL
+•	Q8:   What is the difference between Data Definition Language (DDL) and Data Manipulation Language (DML)?
+•	Q9:   What is the difference between JOIN and UNION?
+•	Q10:  Discuss INNER JOIN ON vs WHERE clause (with multiple FROM tables)
+•	Q11:  Describe the difference between truncate and delete 
+•	Q12:   What is the difference between INNER JOIN, OUTER JOIN, FULL OUTER JOIN?
+•	Q13:   What is the difference between UNION and UNION ALL? 
+•	Q14:   Define ACID Properties
+•	Related To: Databases
+•	Q15:   How a database index can help performance?
+•	Related To: Databases
+•	Q16:   What is Denormalization?
+•	Related To: Databases
+•	Q17:   What is the difference between WHERE clause and HAVING clause?
+•	Q18:   What are the difference between Clustered and a Non-clustered index?
+•	Related To: Databases
+•	Q19:   How does a Hash index work?
+•	Q20:   What is the difference between INNER JOIN and OUTER JOIN?
+•	Q21:   What is Collation?
+•	Q22:   What's the difference between a Primary Key and a Unique Key?
+•	Related To: Databases
+•	Q23:   How can View be used to provide security layer for your app?
+•	Related To: MySQL
+•	Q24:   How would you implement Linear Regression Function in SQL?
+•	Related To: Linear Regression
+•	Q25:   What is the cost of having a database index?
+•	Related To: Databases
+•	Q26:   Explain the difference between Exclusive Lock and Update Lock
+•	Related To: Databases
+•	Q27:   How does B-trees Index work?
+•	Related To: Databases
+•	Q28:   What is the difference among UNION, MINUS and INTERSECT?
+•	Q29:   What is faster, one big query or many small queries?
+•	Related To: MySQL
+•	Q30:   What are some other types of Indexes (vs B-Trees)?
+•	Related To: Databases
+•	Q31:   Name some disadvantages of a Hash index
+•	Related To: Databases
+•	Q32:   What is Optimistic Locking and Pessimistic Locking?
+•	Related To: Databases
+•	Q33:   How does database Indexing work?
+•	Related To: Databases
+•	Q34:   What is the difference between B-Tree, R-Tree and Hash indexing?
+•	Related To: Databases
+•	SQL Practical Challenges
+•	Q1:   Rising Temperature Challenge
+•	Q2:   Find duplicate values in a SQL table
+•	Related To: MySQL
+•	Q3:   How to select first 5 records from a table?
+•	Q4:   Duplicate Emails Challenge
+•	Q5:   How to generate row number in SQL without ROWNUM
+•	Q6:   How can I do an UPDATE statement with JOIN in SQL?
+•	Q7:   How can we transpose a table using SQL (changing rows to column or vice-versa)?
+•	Q8:   How does TRUNCATE and DELETE operations effect Identity?
+•	Related To: T-SQL
+•	Q9:   Delete duplicate values in a SQL table
+•	Q10:   What would happen without an Index?
+•	Q11:   Trips and Users Challenge
+•	Q12:   Department Highest Salary Challenge
+•	Q13:   Select first row in each GROUP BY group (greatest-n-per-group problem)?
+•	SVM Q&As
+•	Q1:   What is Support Vector Machine?
+•	Related To: Supervised Learning
+•	Entry 
+•	Q2:   What is Hyperplane in SVM?
+•	Q3:   What are Support Vectors in SVMs?
+•	Q4:   What happens when there is no clear Hyperplane in SVM?
+•	Q5:   What are Hard-Margin and Soft-Margin SVMs?
+•	Q6:   What are some applications of SVMs?
+•	Q7:   Name some advantages of SVM
+•	Q8:   For N dimensional data set what is the minimum possible number of Support Vectors?
+•	Q9:   What types of SVM kernels do you know?
+•	Q10:   Why would you use the Kernel Trick?
+•	Related To: Classification
+•	Q11:   How can less Training Data give Higher Accuracy?
+•	Related To: Data Processing
+•	Q12:   How to use one-class SVM for Anomalies Detections?
+•	Related To: Anomaly Detection
+•	Q13:   What are Support Vectors?
+•	Q14:   Compare SVM and Logistic Regression in handling outliers
+•	Related To: Anomaly Detection, Logistic Regression
+•	Q15:   What is the Kernel Trick?
+•	Q16:   What is the Hinge Loss in SVM?
+•	Related To: Classification, Cost Function
+•	Q17:   What is the role of C hyperparameter in SVM?
+•	Q18:   What is the difference between Classification and Regression when using SVM?
+•	Q19:   What is Quadratic Optimisation Problem in SVM?
+•	Q20:   While designing an SVM classifier, what values should the designer select?
+•	Q21:   What are the Convex Hulls?
+•	Q22:   What are Polynomial Kernels?
+•	Q23:   When would you use SVMs over Random Forest and vice-versa?
+•	Related To: Random Forests
+•	Q24:   What are some similarities between SVMs and Neural Networks?
+•	Related To: Neural Networks
+•	Q25:   What are some differences between SVMs and Neural Networks?
+•	Related To: Neural Networks
+•	Q26:   Compare K-Nearest Neighbors (KNN) and SVM
+•	Related To: K-Nearest Neighbors
+•	Q27:   When SVM is not a good approach?
+•	Q28:   What is Ranking SVM?
+•	Q29:   Provide an intuitive explanation of Linear Support Vector Machines (SVMs)
+•	Related To: Classification
+•	Q30:   What is the difference between a Decision Boundary and a Hyperplane?
+•	Q31:   Does Redundant data affect an SVM-based classifier?
+•	Related To: Data Processing
+•	Q32:   What are Slack Variables in SVM?
+•	Q33:   Why is the Lagrangian important in SVM?
+•	Q34:   What are C and Gamma (γ) with regards to a Support Vector Machine?
+•	Q35:   What is the Dual Problem?
+•	Q36:   Can you explain PAC learning theory intuitively?
+•	Related To: Machine Learning
+•	Q37:   How does the value of Gamma affect the SVM?
+•	Q38:   How does the value of C affect the SVM?
+•	Q39:   Is there a relation between the Number of Support Vectors and the classifiers performance?
+•	Q40:   Explain the dual form of SVM formulation
+•	Q41:   What are Radial Basis Function Kernels?
+•	Q42:   What is Sequential Minimal Optimization?
+•	Related To: Neural Networks
+•	Q43:   What is Structured SVM?
+•	Q44:   What is the difference between Deep Learning and SVM?
+•	Related To: Deep Learning
+•	Q45:   Name some advantages of using Support Vector Machines vs Logistic Regression for classification
+•	Related To: Logistic Regression, Classification
+•	Q46:   When would you use SVM vs Logistic regression?
+•	Related To: Logistic Regression, Classification
+•	Q47:   How would you deal with classification on Non-linearly Separable data?
+•	Related To: Classification
+•	Q48:   Can Support Vector Machines be used for Outlier Detection?
+•	Related To: Anomaly Detection
+•	Q49:   How does the Algorithm "The 10% You Don't Need" remove the Redundant Data?
+•	Related To: Data Processing
+•	Q50:   Does linear SVMs suffer from the Curse of Dimensionality?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q51:   What is Mercer's theorem and how is it related to SVM?
+•	Q52:   What is the Probably Approximately Correct learning?
+•	Related To: Machine Learning
+•	Q53:   How do you approximate RBF kernel to scale with large numbers of training samples?
+•	Q54:   Why is SVM not popular nowadays? Also, when did SVM perform poorly?
+•	Q55:   Why does SVM work well in practice, even if the reproduced space is very high dimensional?
+•	Q56:   How to select Kernel for SVM?
+•	SVM Practical Challenges
+•	Q1:   How would you implement primal SVM in plain Python?
+•	PY Related To: Python
+•	ikit-Learn Q&As
+•	Q1:   What is Data Leakage and how do you avoid it in Scikit-Learn?
+•	Entry 
+•	Q2:   What's the problem if you call the fit() method multiple times with different X and y data? How can you overcome this issue?
+•	Q3:   How to obtain reproducible results across multiple program executions in Scikit-Learn?
+•	Q4:   What are the basic objects that a ML pipeline should contain?
+•	Related To: Feature Engineering
+•	Q5:   What's the difference between StandardScaler and Normalizer and when would you use each one?
+•	Q6:   What is the difference between Recursive Feature Elimination (RFE) function and SelectFromModel in Scikit-Learn?
+•	Q7:   What's the difference between GridSearchCV and RandomSearchCV? What is the advantage of each one? 
+•	Q8:   How would you create Test (20%) and Train (80%) Datasets with Pandas?
+•	Related To: Pandas
+•	Q9:   What's the difference between StratifiedKFold (with shuffle = True) and StratifiedShuffleSplit in Scikit-Learn?
+•	Related To: Data Processing
+•	Q10:   How do you optimize the Ridge Regression parameter?
+•	Q11:   How would you split Train and Test samples in imbalanced classifications?
+•	Q12:   Suppose you have multiple CPU cores available, how can you use them to reduce the computational cost?
+•	Q13:   How are feature_importances_ in RandomForestClassifier determined in Scikit-Learn?
+•	Related To: Random Forests
+•	Q14:   When to use OneHotEncoder vs LabelEncoder in Scikit-Learn?
+•	Related To: Data Processing
+•	Q15:   What is the difference between cross_validate and cross_val_score in Scikit-Learn?
+•	Q16:   Is max_depth in Scikit-learn the equivalent of pruning in decision trees? If not, how a decision tree is pruned using scikit?
+•	Q17:   What's the difference between fit(), transform() and fit_transform()? Why do we need these separate methods?
+•	Q18:   While using KNeighborsClassifier, when would you set weights="distance"?
+•	Q19:   Would you use PCA on large datasets or there is a better alternative?
+•	Related To: PCA
+•	Q20:   How do you scale data that has many outliers in Scikit-Learn?
+•	Q21:   When would you use Scikit-Learn OneHotEncoder() vs Pandas pd.get_dummies()? 
+•	Related To: Pandas
+•	Q22:   When you would use StratifiedKFold instead of KFold?
+•	Q23:   Does scikit-learn have a forward selection/stepwise regression algorithm?
+•	Q24:   Are there any advantage of XGBoost over GradientBoostingClassifier?
+•	Q25:   How does Recursive Feature Elimination (RFE) works in Scikit-learn?
+•	Q26:   How does sklearn KNeighborsClassifier compute class probabilites when setting weights='uniform'?
+•	Q27:   Can you use SVM with a custom kernel in Scikit-Learn?
+•	Q28:   How to adjust the hyperparameters of MLP classifier using GridSearchCV to get more perfect performance?
+•	Q29:   When you would use TheilSenRegressor, RANSAC and HuberRegressor?
+•	Scikit-Learn Practical Challenges
+•	Q1:   How to extract the decision rules from Scikit-learn decision tree?
+•	Related To: Decision Trees
+•	Q2:   How would you encode a large Pandas dataframe using Scikit-Learn?
+•	Related To: Pandas
+•	Q3:   How can you obtain the principal components and the eigenvalues from Scikit-Learn PCA?
+•	Related To: PCA
+•	Q4:   Suppose df2 is a subset of df1. How can you get the rows of df1 which are not in df2?
+•	Related To: Pandas
+•	Unlock 1704 Answers 
+•	Searching Q&As
+•	Q1:   Explain what is Binary Search
+•	JSJavaPY Related To: Python
+•	Q2:   Explain what is Linear (Sequential) Search and when may we use one?
+•	JSPY Related To: Python
+•	Q3:   Explain some Linear Search optimization techniques
+•	Q4:   Recursive and Iterative Binary Search: Which one is more efficient and why?
+•	Q5:   Explain what is Interpolation Search
+•	JSPY Related To: Python
+•	Q6:   Compare Binary Search vs Linear Search
+•	Q7:   What is an example of Interpolation Search being slower than Binary Search?
+•	Q8:   What is a Jump (or Block) Search?
+•	JSJavaPY Related To: Python
+•	Q9:   Explain why complexity of Binary Search is O(log n)?
+•	Q10:   For Binary Search why do we need round down the average? Could we round up instead?
+•	Q11:   How to apply Binary Search O(log n) on a sorted Linked List?
+•	Related To: Linked Lists
+•	Q12:   What is the optimal block size for a Jump Search? Explain.
+•	Q13:   Explain what is Ternary Search?
+•	CSJava 
+•	Q14:   How is it possible to do Binary Search on a Doubly-Linked List in O(n) time?
+•	Related To: Linked Lists
+•	Q15:   Why would you ever do Binary Search on a Doubly-Linked list?
+•	Related To: Linked Lists
+•	Q16:   Is Sentinel Linear Search better than normal Linear Search?
+•	Q17:   Why use Binary Search if there's ternary search?
+•	Q18:   When Jump Search is a better alternative than a Binary Search?
+•	Searching Practical Challenges
+•	Q1:   Write a program for Recursive Binary Search
+•	JSJavaPY Related To: Python
+•	Q2:   What's wrong with this Recursive Binary Search function?
+•	Q3:   Which of the following algorithms would be the fastest?
+•	Related To: Sorting
+•	Q4:   Explain how does the Sentinel Search work?
+•	CSPY Related To: Python
+•	Q5:   Explain what is Fibonacci Search technique?
+•	CSJSJavaPY Related To: Divide & Conquer, Fibonacci Series, Data Structures, Python
+•	Q6:   Explain when and how to use Exponential (aka Doubling or Galloping) Search? 
+•	JSPY Related To: Python
+•	Sorting Practical Challenges
+•	Q1:   Explain how Bubble Sort works
+•	JSPY Related To: Python
+•	Entry 
+•	Q2:   Explain how Insertion Sort works
+•	JSJavaPY Related To: Python
+•	Q3:   How would you optimise Bubble Sort?
+•	Q4:   Insert an item in a sorted Linked List maintaining order
+•	Java Related To: Linked Lists
+•	Q5:   Explain how Heap Sort works
+•	JSPY Related To: Heaps and Maps, Data Structures, Python
+•	Q6:   Which of the following algorithms would be the fastest?
+•	Related To: Searching
+•	Q7:   Explain how Merge Sort works
+•	JSPY Related To: Divide & Conquer, Python
+•	Q8:   Why would you use Merge Sort for a Linked List?
+•	Java Q9:   
+•	Sort a Stack using Recursion
+•	JavaPY Related To: Stacks, Python
+•	Q10:  
+•	Sort a Stack using another Stack
+•	JavaPY Related To: Stacks, Python
+•	Q11:   Explain how QuickSort works
+•	JSPY Related To: Divide & Conquer, Data Structures, Python
+•	Q12:   Explain how Radix Sort works
+•	JSPY Related To: Python
+•	Q13:   How can I pair socks from a pile efficiently?
+•	Related To: Hash Tables, Brain Teasers
+•	Statistics Q&As
+•	Q1:   What is Normal Distribution?
+•	Q2:   What is the difference between Data Mining, Statistics, Machine Learning and AI?
+•	Related To: Data Mining
+•	Q3:   What's the difference between Normalisation and Standardisation?
+•	Related To: Anomaly Detection
+•	Q4:   In statistics, what is the difference between Bias and Error?
+•	Related To: Supervised Learning
+•	Q5:   What is the difference between the Standard Error of the Mean and Standard Deviation?
+•	Q6:   What's the difference between Confidence Interval and Confidence Level?
+•	Q7:   Why would you use the Median as a measure of central tendency?
+•	Related To: Anomaly Detection
+•	Q8:   What is Central Tendency?
+•	Q9:   What is Statistical Significance?
+•	Q10:   How many types of means do you know?
+•	Q11:   Can there be more than one Mode?
+•	Q12:   What is the Empirical Rule?
+•	Q13:   What is the difference between Descriptive Statistics and Inferential Statistics?
+•	Q14:   What is the 68 - 95 - 99.7 rule for Normal Distribution?
+•	Related To: Anomaly Detection
+•	Q15:   What are the differences in Anomalies for Uniform Distribution and Normal Distribution in One-Dimensional Data?
+•	Related To: Anomaly Detection
+•	Q16:   Explain how to use Standard Deviation for Anomalies Detection?
+•	Related To: Anomaly Detection
+•	Q17:   What is the F-Score?
+•	Related To: Model Evaluation, Classification
+•	Q18:   in which use-case we should use Mean and when to use Median?
+•	Q19:   How do you reduce the risk of making a Type I and Type II error?
+•	Related To: Model Evaluation
+•	Q20:   What a p-value tells you about statistical significance of observation?
+•	Q21:   What is the Central Limit Theorem (CLT)?
+•	Q22:   How many Levels of Measures do you know?
+•	Q23:   How many Sampling Techniques do you know?
+•	Q24:   What does a Statistical Test do?
+•	Q25:   How would you choose the Statistical Test to use?
+•	Q26:   State null and alternate hypothesis for a relationship between gender and height
+•	Q27:   What's the difference between z-score and t-score?
+•	Q28:   How many types of Descriptive Statistics do you know?
+•	Q29:   How would you assess the Statistical Significance of an insight?
+•	Q30:   When you sample, what potential Sampling Biases could you be inflicting?
+•	Related To: Data Processing, Bias & Variance
+•	Q31:   What's the difference between Homoskedasticity and Heteroskedasticity?
+•	Related To: Linear Regression
+•	Q32:   How would you calculate a Confidence Interval?
+•	Q33:   How many types of measures of Variability do you know?
+•	Q34:   When would you use the Interquartile Range (IQR)?
+•	Q35:   What's the difference between Kurtosis and Skewness?
+•	Q36:   When would you use a t-test?
+•	Q37:   How would you determine the needed Sample Size?
+•	Related To: Data Processing
+•	Q38:   How do you transform a Skewed distribution into a Normal distribution?
+•	Related To: Feature Engineering
+•	Q39:   In measuring reaction time, a psychologist estimates that the standard deviation is 0.05 seconds.
+•	Q40:   How would you calculate a Confidence Interval for non normally distributed data?
+•	Q41:   Is mean imputation of missing data acceptable practice? Why or why not?
+•	Related To: Data Processing
+•	Q42:   What is the difference between Central Limit Theorem and the Law of Large Numbers?
+•	Q43:   How would you increase the Statistical Power?
+•	Q44:   What is a Long Tail distribution? How they are produced in real life? 
+•	Q45:   What's the difference between Covariance and Correlation?
+•	Q46:   Which measures of Variability would you use on your data?
+•	Related To: Data Processing
+•	Q47:   How could I (statistically) find features that are more important than others?
+•	Related To: Data Processing
+•	Q48:   Can Data Cleaning worsen the results of Statistical Analysis?
+•	Related To: Data Processing
+•	Q49:   How would you calculate and evaluate the Effect Size?
+•	Q50:   How does an ANOVA test work?
+•	Related To: Data Processing
+•	Statistics Practical Challenges
+•	Q1:   Running For Office Challenge 
+•	Q2:   Two Aces Challenge
+•	Q3:   Experiment on Extrasensory Perception (ESP) Challenge
+•	Q4:   Performance of Two Classes Challenge
+•	Q5:   Final Exams Standing Challenge
+•	Q6:   99% Confidence Interval Challenge
+•	Q7:   Random Guess Test Pass Challenge
+•	Q8:   Total Number of Possible Passwords Challenge
+•	Related To: Probability
+•	Q9:   Mathematics Competition Challenge
+•	Related To: Probability
+•	Supervised Learning Q&As
+•	Q1:   What is Support Vector Machine?
+•	Related To: SVM
+•	Entry 
+•	Q2:   What is Linear Regression?
+•	Related To: Linear Regression
+•	Entry 
+•	Q3:   What is a Perceptron?
+•	Related To: Neural Networks, Classification
+•	Entry 
+•	Q4:   What are Decision Trees?
+•	Related To: Decision Trees
+•	Entry 
+•	Q5:   What do you understand by the term Supervised Learning?
+•	Entry 
+•	Q6:   What are the two types of problems solved by Supervised Learning?
+•	Entry 
+•	Q7:   What is the difference between Supervised Learning and Unsupervised Learning?
+•	Related To: Unsupervised Learning
+•	Q8:   Give a real life example of Supervised Learning and Unsupervised Learning
+•	Related To: Unsupervised Learning
+•	Q9:   What is Bias in Machine Learning?
+•	Related To: Bias & Variance
+•	Q10:  Why Naive Bayes is called Naive?
+•	Related To: Naïve Bayes, Classification
+•	Q11:   What is the difference between KNN and K-means Clustering?
+•	Related To: K-Means Clustering, Unsupervised Learning, Classification
+•	Q12:   Explain the structure of a Decision Tree
+•	Related To: Decision Trees
+•	Q13:   How are the different nodes of decision trees represented?
+•	Related To: Decision Trees
+•	Q14:   In statistics, what is the difference between Bias and Error?
+•	Related To: Statistics
+•	Q15:   What is the Bias-Variance tradeoff?
+•	Related To: Bias & Variance
+•	Q16:   What is the difference between a Regression problem and a Classification problem?
+•	Q17:   Define Linear Regression and its structure
+•	Related To: Linear Regression
+•	Q18:   What is k-Nearest Neighbors algorithm?
+•	Related To: K-Nearest Neighbors
+•	Q19:   What is Cross-Validation and why is it important in supervised learning?
+•	Related To: Data Processing
+•	Q20:   What is the difference between a Multiclass problem and a Multilabel problem?
+•	Related To: Clustering
+•	Q21:   What is the Bias Error?
+•	Related To: Bias & Variance
+•	Q22:   What is the Variance Error?
+•	Related To: Bias & Variance
+•	Q23:   What are some challenges faced when using a Supervised Regression Model?
+•	Related To: Linear Regression
+•	Q24:   How do you use a supervised Logistic Regression for Classification?
+•	Related To: Logistic Regression, Classification
+•	Q25:   What is a Confusion Matrix?
+•	Related To: Model Evaluation, Classification
+•	Q26:   How is Gradient Boosting used to improve Supervised Learning?
+•	Related To: Ensemble Learning
+•	Q27:   What are some disadvantages of Supervised Learning?
+•	Q28:   What is the difference between Supervised and Unsupervised learning?
+•	Related To: Unsupervised Learning
+•	Q29:   Compare Reinforced Learning and Supervised Learning
+•	Related To: Reinforcement Learning
+•	Q30:   What is the difference between Gradient Boosting and Adaptive Boosting?
+•	Related To: Decision Trees
+•	Q31:   What is Semi-Supervised learning?
+•	Q32:   How do you choose between Supervised and Unsupervised learning?
+•	Related To: Unsupervised Learning
+•	TensorFlow Q&As
+•	Q1:   How would you save an entire model in tensorflow.keras?
+•	Q2:   What is the default method of variable initialisation in tf.get_variable()? 
+•	Q3:   What is the difference between Dataset.from_tensors and Dataset.from_tensor_slices and when would you use each one?
+•	Q4:   In the context of merging tensors, what's the difference between tf.concat and tf.stack?
+•	Q5:   What's the difference between tf.Variable and tf.get_variable? 
+•	Q6:   What does batch, repeat, and shuffle do with TensorFlow Dataset?
+•	Q7:   What's the difference of name_scope and variable_scope in TensorFlow?
+•	Q8:   What do the TensorFlow Dataset's functions cache() and prefetch() do?
+•	Q9:   What is Feature Cross and how can you create them with TensorFlow?
+•	Q10:   Why would you bucket a feature and how can you do it with TensorFlow?
+•	Q11:   What is the advantage of using a tensorflow.data.Dataset over a regular tensorflow.Tensor for a dataset?
+•	Q12:   How can you use a preprocessing layer in a TensorFlow/Keras model?
+•	Related To: Keras
+•	Q13:   How would you get the gradient of the loss at a TensorFlow variable?
+•	Q14:   What does this code do?
+•	Q15:   What is the purpose of tf.GradientTape() in Eager Execution?
+•	Q16:   Compare Eager vs Graph Execution in TensorFlow
+•	Q17:   What are the common problems that we may face when reading remote data? How can you overcome it with TensorFlow?
+•	Q18:   What's the difference between tf.clip_by_value, tf.clip_by_global_norm and tf.clip_by_norm and when would you use each one?
+•	Q19:   How Neural Style Transfer does it work? How do you compute the losses?
+•	Q20:   How to apply Gradient Clipping in TensorFlow?
+•	TensorFlow Practical Challenges
+•	Q1:   How to obtain the value of a Tensor object in TensorFlow?
+•	Entry 
+•	Q2:   Using TensorFlow, get unique elements and their indices from x array.
+•	Q3:   Complete the code below to construct and fit the required model, then visualize the final architecture and learning process using TensorBoard
+•	Q4:   Construct the required data pipeline with TensorFlow
+•	Q5:   Compute the batch inner product in TensorFlow
+•	Q6:   Convert the Python function to an equivalent graph in TensorFlow
+•	Q7:   Complete the code below to construct and evaluate a Convolutional Network in TensorFlow
+•	Related To: Neural Networks
+•	Q8:   Compute the gradients using TensorFlow
+•	Q9:   How to add regularisations in TensorFlow?
+•	Q10:   Tensor N in the shape of (a, b, c) challenge
+•	Time Series Q&As
+•	Q1:   What is Time Series?
+•	Entry 
+•	Q2:   How are CNNs used for Time Series Prediction?
+•	Related To: CNN, Neural Networks
+•	Q3:   What are some real-world applications of Time-Series Forecasting?
+•	Q4:   What are some common Data Preparation Operations you would use for Time Series Data?
+•	Q5:   How do you handle Missing Values in Time-Series Data?
+•	Q6:   Why does a Time Series have to be Stationary?
+•	Q7:   How the IQR (Interquartile Range) is used in Time Series Forecasting?
+•	Related To: Anomaly Detection
+•	Q8:    What does "irregularly spaced spatial data" mean?
+•	Q9:   What are some examples of Time-Series Data which can be Mined?
+•	Q10:  What is the Sliding Window method for Time Series Forecasting?
+•	Q11:   What are some advantages of using MLP (Multilayer Perceptrons) for Time Series Prediction?
+•	Q12:   What would be some reasons that LSTM Models do not improve the Time-Series Forecasting significantly as compared to MLP Models?
+•	Q13:   Can Non-Sequential Deep Learning Models outperform Sequential Models in Time-Series Forecasting?
+•	Q14:   If your Time-Series Dataset is very long, what architecture would you use?
+•	Q15:   Why are RNNs (Recurrent Neural Network) better than MLPs at predicting Time Series Data?
+•	Related To: RNN
+•	Q16:   How do you Normalise Time-Series Data?
+•	Q17:   How do you mine Contextual Spatial Attributes?
+•	Q18:   How is Pearson Correlation used with Time Series?
+•	Q19:   What statistical methods can I use to assess the differences between the time series?
+•	Q20:   What process do you go through to design a Neural Network for Time-Series Forecasting?
+•	Q21:   What are some different Neural Architectures for predicting Time-Series Values?
+•	Q22:   List some Advantages of using State-Space Models and Kalman Filter for Time-Series Modelling
+•	Q23:   How would you compare the two Time Series shown below?
+•	Q24:   What is a Moving Average Process? Give some Real-life Examples.
+•	Q25:   What are some Similarity Measures used for Sequence Data?
+•	Related To: Data Mining
+•	Q26:   Compare some Forecasting Techniques for Stationary and Non-stationary Time-Series
+•	Q27:   What are some Similarity Measures which can be used with Time Series data?
+•	Q28:   What is Discrete Wavelet Transform?
+•	Q29:   After you develop a Real-Time Classifier of Time Series Events, how do you know if a Low Power Embedded System can classify events in real-time?
+•	Q30:   Explain how the Facebook Prophet is used to predict Time-Series Data
+•	Q31:   Can Hidden Markov Models be used to model Time-Series data?
+•	Q32:   How do you Auto-correlate Discrete and Abstract Time Series Data?
+•	Q33:   Explain briefly the different methods of Noise-Removal for Time-Series Data
+•	Q34:   What are some different ways of Trajectory Patterns Mining?
+•	Q35:   Why does Time-Series have to be Stationary before you can run ARIMA or ARM Models?
+•	Q36:   When would you use Sequential Split of data? 
+•	Related To: ML Design Patterns, Data Processing
+•	Q37:   Compare State-Space Models and ARIMA models
+•	Time Series Practical Challenges
+•	Q1:   Implement a simple algorithm for Online Outlier Detection of a generic Time Series
+•	Related To: Anomaly Detection
+•	Unsupervised Learning Q&As
+•	Q1:   What are some applications of Unsupervised Learning?
+•	Entry 
+•	Q2:   What are some common Machine Learning problems that Unsupervised Learning can help with?
+•	Related To: Feature Engineering
+•	Entry 
+•	Q3:   What is the difference between Supervised Learning and Unsupervised Learning?
+•	Related To: Supervised Learning
+•	Q4:   Give a real life example of Supervised Learning and Unsupervised Learning
+•	Related To: Supervised Learning
+•	Q5:   How Principal Component Analysis (PCA) is used for Dimensionality Reduction?
+•	Related To: Dimension Reduction, PCA
+•	Q6:   What is the difference between KNN and K-means Clustering?
+•	Related To: K-Means Clustering, Supervised Learning, Classification
+•	Q7:   How can Neural Networks be Unsupervised?
+•	Related To: Autoencoders, Neural Networks
+•	Q8:   What is the Curse of Dimensionality and how can Unsupervised Learning help with it?
+•	Related To: Dimensionality Reduction, Curse of Dimensionality
+•	Q9:   How is it possible to perform Unsupervised Learning with Random Forest?
+•	Related To: Random Forests
+•	Q10:   What is the difference between Supervised and Unsupervised learning?
+•	Related To: Supervised Learning
+•	Q11:   What are some differences between Unsupervised Learning and Reinforcement Learning?
+•	Q12:   Describe the approach used in Denoising Autoencoders
+•	Related To: Autoencoders
+•	Q13:   What is the difference between the two types of Hierarchical Clustering?
+•	Related To: Clustering
+•	Q14:   How does K-Means perform Clustering?
+•	Related To: K-Means Clustering
+•	Q15:   What are some advantages of using LLE over PCA?
+•	Related To: PCA, Dimensionality Reduction
+•	Q16:   What’s the LDA algorithm? Give an example.
+•	Q17:   What is the difference and connection between Clustering and Dimension Reduction?
+•	Related To: Clustering, Dimensionality Reduction
+•	Q18:   How do you choose between Supervised and Unsupervised learning?
+•	Related To: Supervised Learning
+•	Q19:   Why does K-Means have a higher bias when compared to Gaussian Mixture Model?
+•	Related To: Clustering
+•	Q20:   Can you use Batch Normalisation in Sparse Auto-encoders?
+•	Related To: Autoencoders
+•	Q21:   What are the main differences between Sparse Autoencoders and Convolution Autoencoders?
+•	Related To: Autoencoders
+•	Q22:   What are some differences between the Undercomplete Autoencoder and the Sparse Autoencoder?
+•	Related To: Autoencoders
+•	Q23:   Explain how a cluster is formed in the DBSCAN Clustering Algorithm
+•	Related To: Clustering
+•	Q24:   How is PCA used for Anomaly Detection?
+•	Related To: Anomaly Detection, PCA
+•	Q25:   Explain the Locally Linear Embedding algorithm for Dimensionality Reduction
+•	Related To: Dimensionality Reduction
+•	Q26:   How to tell if data is clustered enough for clustering algorithms to produce meaningful results?
+•	Related To: Clustering, K-Means Clustering
+•	Q27:   Are GANs unsupervised?
